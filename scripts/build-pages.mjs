@@ -1,0 +1,12 @@
+import {build} from 'vite';
+import {cp,mkdir,writeFile} from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+import {resolve} from 'node:path';
+import {publicEntries} from './release-assets.mjs';
+const root=fileURLToPath(new URL('../',import.meta.url));
+const base=process.env.JIALIHUA_PAGES_BASE||'/jialihua-demo/';
+if(!/^\/(?:[A-Za-z0-9_.-]+\/)*$/.test(base)||base.includes('/../')||base.includes('/./'))throw new Error('JIALIHUA_PAGES_BASE 必须为 / 或 /仓库名/ 格式');
+await build({root,mode:'pages',base});
+for(const path of await publicEntries())await cp(resolve(root,'public',path),resolve(root,'dist-pages',path),{recursive:true});
+await mkdir(resolve(root,'dist-pages'),{recursive:true});await writeFile(resolve(root,'dist-pages/.nojekyll'),'');
+console.log('仅生成本地 GitHub Pages 构建：dist-pages；未上传或发布。Base: '+base);

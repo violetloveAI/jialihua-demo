@@ -1,0 +1,106 @@
+{
+  "id": "self-invite",
+  "language": "mandarin",
+  "text": "要继续学主功能吗？。用预览案例练一遍；也可以先开始使用。",
+  "file": "/tutorial/self-invite-mandarin.mp3",
+  "sha256": "85f319094f635481d3b6c8f37a10c7783b21f84706affe3da86b458dbf5255b0",
+  "duration": 6.36,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.1,
+      "end": 0.3
+    },
+    {
+      "from": 1,
+      "to": 3,
+      "start": 0.3125,
+      "end": 0.6125
+    },
+    {
+      "from": 3,
+      "to": 5,
+      "start": 0.625,
+      "end": 0.9875
+    },
+    {
+      "from": 5,
+      "to": 7,
+      "start": 1,
+      "end": 1.325
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.325,
+      "end": 1.5375
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2.1,
+      "end": 2.3375
+    },
+    {
+      "from": 11,
+      "to": 13,
+      "start": 2.35,
+      "end": 2.75
+    },
+    {
+      "from": 13,
+      "to": 15,
+      "start": 2.7625,
+      "end": 3.0875
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 3.0875,
+      "end": 3.3125
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.325,
+      "end": 3.4375
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.4375,
+      "end": 3.6875
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.95,
+      "end": 4.1
+    },
+    {
+      "from": 20,
+      "to": 22,
+      "start": 4.1125,
+      "end": 4.4375
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.45,
+      "end": 4.675
+    },
+    {
+      "from": 23,
+      "to": 25,
+      "start": 4.6875,
+      "end": 5.0125
+    },
+    {
+      "from": 25,
+      "to": 27,
+      "start": 5.025,
+      "end": 5.4875
+    }
+  ]
+}

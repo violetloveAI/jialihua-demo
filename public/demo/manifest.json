@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-20T04:21:04.925Z",
+  "audio": [
+    {
+      "caseId": "W1",
+      "language": "mandarin",
+      "text": "晓晓说，她今天通过了毕业论文答辩。\n她说“这关上岸了”，是说这件盼望完成的事终于办成了。\n她打算周六回家，想吃姥姥包的饺子。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "W1-mandarin.mp3",
+      "bytes": 75024,
+      "sha256": "6133bcd6095463ee904a7c40b0bf28d19d4107075f9931d99701ebf034062e1f",
+      "duration": "00:00:12.50",
+      "meanVolumeDb": -22
+    },
+    {
+      "caseId": "W2",
+      "language": "mandarin",
+      "text": "晓晓说，这两天因为事情没做好，心情有些低落。\n她明确说自己没生病。周末想安静休息，下周再和您视频。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "W2-mandarin.mp3",
+      "bytes": 67104,
+      "sha256": "ba975d9c9326bebca69e1ee1505b72c68fc876a9e21e87912beb7a4c3a3f481a",
+      "duration": "00:00:11.18",
+      "meanVolumeDb": -21.6
+    },
+    {
+      "caseId": "W3",
+      "language": "mandarin",
+      "text": "小军改了回家的时间：周五不回来，改成周日。\n249元的车票他已经买好，不用给他转钱。\n他到家前会打电话，让妈妈不要去车站接。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "W3-mandarin.mp3",
+      "bytes": 79632,
+      "sha256": "01480ba9b380df8e29b5d83357c942d2ee8a087d3d67d5314967156d1bfa4df0",
+      "duration": "00:00:13.27",
+      "meanVolumeDb": -22.9
+    },
+    {
+      "caseId": "P1",
+      "language": "mandarin",
+      "text": "晓晓说，她入职三个月，今天已经通过试用期，成为正式员工。\n朋友阿圆在评论里祝贺她，还约她请奶茶。晓晓回复说周末约。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "P1-mandarin.mp3",
+      "bytes": 76176,
+      "sha256": "28698d30a2846d4935183131741408b805f135836cee7954a7c4cd64884b0c94",
+      "duration": "00:00:12.70",
+      "meanVolumeDb": -22.6
+    },
+    {
+      "caseId": "P2",
+      "language": "mandarin",
+      "text": "小满参加校运会的800米跑步，比自己上次快了12秒。\n“PB”是他自己的最好成绩，不代表他得了全校第一。\n妈妈在评论里夸他坚持训练。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "P2-mandarin.mp3",
+      "bytes": 78336,
+      "sha256": "d2d1e160b4e503ba26f2a0b6d8e24d3cdf489b41ec6089427c57fdeb77bb36c1",
+      "duration": "00:00:13.06",
+      "meanVolumeDb": -22.7
+    },
+    {
+      "caseId": "P3",
+      "language": "mandarin",
+      "text": "晓晓收到了姥姥寄来的饺子，看见后很受触动，突然特别想家。\n这里的“破防”是在说自己的情绪被触动了。\n妈妈在评论里提醒她，吃完给姥姥打电话。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "P3-mandarin.mp3",
+      "bytes": 81936,
+      "sha256": "7a43c5467ab808b31e8e0129636badcf4c7ed0f1f1a9b698e557e5560ad94a5d",
+      "duration": "00:00:13.66",
+      "meanVolumeDb": -22.9
+    },
+    {
+      "caseId": "S1",
+      "language": "mandarin",
+      "text": "短信写着，尾号2816的包裹到了春风驿站。\n取件码：7-249。保管到9月22日18:00。\n短信写明，本次取件不收费，不要向陌生人转账。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "S1-mandarin.mp3",
+      "bytes": 92304,
+      "sha256": "05d62689ba3642144967d7b6a304635c6abe5c7ce53f5dc7f43634cd18265ca3",
+      "duration": "00:00:15.38",
+      "meanVolumeDb": -21.8
+    },
+    {
+      "caseId": "S2",
+      "language": "mandarin",
+      "text": "这条通知说，手工活动改到9月24日上午9:30。\n地点是社区服务中心2楼。\n不要按原来的9月23日去。通知说活动不收报名费。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "S2-mandarin.mp3",
+      "bytes": 82224,
+      "sha256": "71e83d00af19cde3452212c5ad25bb63dae26f209167b182ff7d77151760b22f",
+      "duration": "00:00:13.70",
+      "meanVolumeDb": -21.9
+    },
+    {
+      "caseId": "S3",
+      "language": "mandarin",
+      "text": "短信说，本月套餐里的手机上网流量用了8GB，还剩2GB。\n短信明确说没有替您购买额外流量包。\n这条短信没有说您欠费，也没有要求您付款。",
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "S3-mandarin.mp3",
+      "bytes": 82800,
+      "sha256": "59d46c8123aa7358de328d36bc579d42524b87edae700acb38276d65fcd8be58",
+      "duration": "00:00:13.80",
+      "meanVolumeDb": -22.1
+    },
+    {
+      "caseId": "W1",
+      "language": "henan",
+      "text": "晓晓说，她今儿毕业论文答辩过了。\n她说“这关上岸了”，就是说，盼着办成的这件事，总算办成了。\n她打算周六回家，想吃姥姥包的饺子。",
+      "voice": "longanhuan_v3",
+      "file": "W1-henan.mp3",
+      "bytes": 215611,
+      "sha256": "ebd66cb3d4907b3ea09ac0dc1ef5ef230cbde54af75d99e023ede7ca6b800173",
+      "duration": "00:00:10.78",
+      "meanVolumeDb": -21.1
+    },
+    {
+      "caseId": "W2",
+      "language": "henan",
+      "text": "晓晓说，这两天事儿没做好，心里有点不得劲儿。\n她明说了，自个儿没生病。周末想安安静静歇歇，下周再跟您视频。",
+      "voice": "longanhuan_v3",
+      "file": "W2-henan.mp3",
+      "bytes": 190651,
+      "sha256": "28470d999ea61843cec03dc30e088179330ffa0ad0c5cc1b967364ac06e00de2",
+      "duration": "00:00:09.53",
+      "meanVolumeDb": -21.3
+    },
+    {
+      "caseId": "W3",
+      "language": "henan",
+      "text": "小军把回家的日子改了：周五不回来，改成周日。\n249元的车票，他已经买好了，不用给他转钱。\n他说到家前会打电话，让妈妈别去车站接。",
+      "voice": "longanhuan_v3",
+      "file": "W3-henan.mp3",
+      "bytes": 218971,
+      "sha256": "e7757639d5611d76495c9e744730a41f575c99768c7bc33094c43cf14d1e6acb",
+      "duration": "00:00:10.94",
+      "meanVolumeDb": -21.5
+    },
+    {
+      "caseId": "P1",
+      "language": "henan",
+      "text": "晓晓说，她上班三个月，今儿试用期过了，成正式员工了。\n朋友阿圆在评论里恭喜她，还约她请喝奶茶。晓晓回了一句，说周末约。",
+      "voice": "longanhuan_v3",
+      "file": "P1-henan.mp3",
+      "bytes": 221851,
+      "sha256": "b2a5a2d07b99b567b9ae75e013c33c657816eebbb418684845fd20999b90a331",
+      "duration": "00:00:11.09",
+      "meanVolumeDb": -20.9
+    },
+    {
+      "caseId": "P2",
+      "language": "henan",
+      "text": "小满在校运会跑800米，比自个儿上回快了12秒。\n“PB”是他自个儿跑得最好的一回，可不是说得了全校第一。\n妈妈在评论里夸他一直坚持训练。",
+      "voice": "longanhuan_v3",
+      "file": "P2-henan.mp3",
+      "bytes": 225211,
+      "sha256": "49ac668a29955f967a68f988d4a769f18a9485856f25818caba7e42b38f88a53",
+      "duration": "00:00:11.26",
+      "meanVolumeDb": -22.6
+    },
+    {
+      "caseId": "P3",
+      "language": "henan",
+      "text": "晓晓收到姥姥寄的饺子，一瞧见，心里就很受触动，一下子特别想家。\n她说“破防了”，这儿是在说心里的情绪被触动了。\n妈妈在评论里提醒她，吃完给姥姥打个电话。",
+      "voice": "longanhuan_v3",
+      "file": "P3-henan.mp3",
+      "bytes": 249211,
+      "sha256": "23f9461bf8d4ca505878c2b4db241e5a1ede251aea3477f0a0845bf9a986550f",
+      "duration": "00:00:12.46",
+      "meanVolumeDb": -21.6
+    },
+    {
+      "caseId": "S1",
+      "language": "henan",
+      "text": "短信上说，尾号2816的包裹到了春风驿站。\n取件码是7-249，保管到9月22日18:00。\n短信上写着，这回取件不收钱，别给不认识的人转账。",
+      "voice": "longanhuan_v3",
+      "file": "S1-henan.mp3",
+      "bytes": 250171,
+      "sha256": "277afb9a8fa424faca9e89bc77b000c8da3d53b5d7597c8474a6728bedb7ef5a",
+      "duration": "00:00:12.50",
+      "meanVolumeDb": -22.1
+    },
+    {
+      "caseId": "S2",
+      "language": "henan",
+      "text": "这条通知说，手工活动改到9月24日上午9:30。\n地方在社区服务中心2楼。\n别按原先的9月23日去。通知说活动不收报名费。",
+      "voice": "longanhuan_v3",
+      "file": "S2-henan.mp3",
+      "bytes": 225211,
+      "sha256": "a9fedad46ba7290580ddd9010ae2d89b8d448e301a0da38679b8b72a6f522ee6",
+      "duration": "00:00:11.26",
+      "meanVolumeDb": -21.5
+    },
+    {
+      "caseId": "S3",
+      "language": "henan",
+      "text": "短信说，这个月套餐里的上网流量用了8GB，还剩2GB。\n短信明说了，没替您买额外的流量包。\n这条短信没说您欠费，也没让您交钱。",
+      "voice": "longanhuan_v3",
+      "file": "S3-henan.mp3",
+      "bytes": 208411,
+      "sha256": "c93151dc20a4db8bdae9d220d4b46e50be6020f5e1f762417f531ee8ef817222",
+      "duration": "00:00:10.42",
+      "meanVolumeDb": -22.3
+    }
+  ],
+  "video": [
+    {
+      "caseId": "P3",
+      "language": "mandarin",
+      "pages": [
+        "晓晓收到了姥姥寄来的饺子，看见后很受触动，突然特别想家。",
+        "这里的“破防”是在说自己的情绪被触动了。",
+        "妈妈在评论里提醒她，吃完给姥姥打电话。"
+      ],
+      "voice": "zh-CN-XiaoyiNeural",
+      "file": "P3-mandarin.mp4",
+      "bytes": 281673,
+      "sha256": "0ec5474fd7ba4b2fa80efb3e94d873b65416e912205aa6425776206e0b09a20a",
+      "duration": "00:00:16.01",
+      "meanVolumeDb": -23.6
+    },
+    {
+      "caseId": "P3",
+      "language": "henan",
+      "pages": [
+        "晓晓收到姥姥寄的饺子，一瞧见，心里就很受触动，一下子特别想家。",
+        "她说“破防了”，这儿是在说心里的情绪被触动了。",
+        "妈妈在评论里提醒她，吃完给姥姥打个电话。"
+      ],
+      "voice": "longanhuan_v3",
+      "file": "P3-henan.mp4",
+      "bytes": 294836,
+      "sha256": "62ac2a326de8d04217b685a15d1dc2866fcd5de6667233b70513fefe2934f315",
+      "duration": "00:00:15.15",
+      "meanVolumeDb": -22
+    }
+  ],
+  "henan": true
+}

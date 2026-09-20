@@ -1,0 +1,124 @@
+{
+  "id": "self-rate",
+  "language": "henan",
+  "text": "说得快，就让它慢一点。听不清，就选慢一点。还可以再慢一点。",
+  "file": "/tutorial/self-rate-henan.mp3",
+  "sha256": "f19ffaaea5dcc21d6b77d236d02b1b7a74bafe296c89e02fc2fcd1d48db07c95",
+  "duration": 5.26,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.28
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.32,
+      "end": 0.36
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.84,
+      "end": 0.88
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 0.88,
+      "end": 0.96
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1,
+      "end": 1.08
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.12,
+      "end": 1.36
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.36,
+      "end": 1.48
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.48,
+      "end": 1.68
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 1.88,
+      "end": 2.04
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.12,
+      "end": 2.16
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.16,
+      "end": 2.333
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.506,
+      "end": 2.68
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 2.68,
+      "end": 2.84
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 2.84,
+      "end": 3.1
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.1,
+      "end": 3.36
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.36,
+      "end": 3.62
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 3.88,
+      "end": 4
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.04,
+      "end": 4.16
+    }
+  ]
+}

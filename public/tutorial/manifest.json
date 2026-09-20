@@ -1,0 +1,257 @@
+{
+  "generatedAt": "2026-09-20T04:53:09.609Z",
+  "assets": [
+    {
+      "id": "entry-question",
+      "language": "mandarin",
+      "text": "更想听的语言。您可以先听听普通话和河南话，再选一个喜欢的声音。",
+      "file": "/tutorial/entry-question-mandarin.mp3"
+    },
+    {
+      "id": "entry-sample",
+      "language": "mandarin",
+      "text": "您好，我用普通话为您讲解。选好以后，教程和页面里的声音，都会用普通话。",
+      "file": "/tutorial/entry-sample-mandarin.mp3"
+    },
+    {
+      "id": "entry-experience",
+      "language": "mandarin",
+      "text": "以前用过家里话吗？第一次用，可以选“第一次用”，我会带您一步一步学。已经用过，就直接进入。",
+      "file": "/tutorial/entry-experience-mandarin.mp3"
+    },
+    {
+      "id": "self-role",
+      "language": "mandarin",
+      "text": "从顶部开始认识。右上角能切换老人版和子女版。下面三个按钮，帮您调到用着舒服。",
+      "file": "/tutorial/self-role-mandarin.mp3"
+    },
+    {
+      "id": "self-language",
+      "language": "mandarin",
+      "text": "先选熟悉的声音。普通话、河南话，点这里切换。教程和页面会用您选的声音。",
+      "file": "/tutorial/self-language-mandarin.mp3"
+    },
+    {
+      "id": "self-font",
+      "language": "mandarin",
+      "text": "字小了，就在这里调。点这里选更大的字。下次打开，也会记住您的字号。",
+      "file": "/tutorial/self-font-mandarin.mp3"
+    },
+    {
+      "id": "self-rate",
+      "language": "mandarin",
+      "text": "说得快，就让它慢一点。听不清，就选慢一点。还可以再慢一点。",
+      "file": "/tutorial/self-rate-mandarin.mp3"
+    },
+    {
+      "id": "self-speaker",
+      "language": "mandarin",
+      "text": "小喇叭，点一下就能听。标题旁的喇叭能读标题。功能旁的喇叭，会讲这个功能怎么用。",
+      "file": "/tutorial/self-speaker-mandarin.mp3"
+    },
+    {
+      "id": "self-history",
+      "language": "mandarin",
+      "text": "底部能找以前看过的。看过的话都在这里，可以再看、再听。",
+      "file": "/tutorial/self-history-mandarin.mp3"
+    },
+    {
+      "id": "self-upload",
+      "language": "mandarin",
+      "text": "主要用这个按钮选图。选一张看不懂的截图，就能看大字、听解释。接下来可以跟着案例试。",
+      "file": "/tutorial/self-upload-mandarin.mp3"
+    },
+    {
+      "id": "self-invite",
+      "language": "mandarin",
+      "text": "要继续学主功能吗？。用预览案例练一遍；也可以先开始使用。",
+      "file": "/tutorial/self-invite-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-pick",
+      "language": "mandarin",
+      "text": "第一步，打开相册。点亮着的按钮，打开演示相册。这次先用准备好的截图练习。",
+      "file": "/tutorial/self-practice-pick-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-choose",
+      "language": "mandarin",
+      "text": "第二步，选这张截图。这是孩子说答辩通过的聊天截图。点亮着的这张图，把它选进来。",
+      "file": "/tutorial/self-practice-choose-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-preview",
+      "language": "mandarin",
+      "text": "第三步，看看选对没有。这里能查看选中的原图。选错了可以重新选；确认好，再往下看。",
+      "file": "/tutorial/self-practice-preview-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-analyze",
+      "language": "mandarin",
+      "text": "选好以后，点这里解读。点“帮我讲明白”，就会把截图里的话，换成容易懂的解释。",
+      "file": "/tutorial/self-practice-analyze-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-result",
+      "language": "mandarin",
+      "text": "解释就在这里。这张图说的是：孩子答辩通过了，周六想回家吃饺子。",
+      "file": "/tutorial/self-practice-result-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-listen",
+      "language": "mandarin",
+      "text": "点这个标题，听完整解释。不想看字，就点亮着的标题。现在也可以先听听这段案例讲解。",
+      "file": "/tutorial/self-practice-listen-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-terms",
+      "language": "mandarin",
+      "text": "不熟悉的词，单独讲明白。“答辩”“上岸”这些词，下面都有解释。点标题，也能听这一部分。",
+      "file": "/tutorial/self-practice-terms-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-original",
+      "language": "mandarin",
+      "text": "想核对，就展开原话。这里保留孩子原来发的话，方便对照着看。",
+      "file": "/tutorial/self-practice-original-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-save",
+      "language": "mandarin",
+      "text": "看过的解释，会留在本机。正式使用时会保留解读，也能点这里再保存。练习不会新增记录。",
+      "file": "/tutorial/self-practice-save-mandarin.mp3"
+    },
+    {
+      "id": "self-practice-finish",
+      "language": "mandarin",
+      "text": "学会了，下次就这样用。以后点底部“以前看过的”，还能找到。现在回首页，选您自己的截图吧。",
+      "file": "/tutorial/self-practice-finish-mandarin.mp3"
+    },
+    {
+      "id": "entry-question",
+      "language": "henan",
+      "text": "更想听的语言。您可以先听听普通话跟河南话，再挑个喜欢的声音。",
+      "file": "/tutorial/entry-question-henan.mp3"
+    },
+    {
+      "id": "entry-sample",
+      "language": "henan",
+      "text": "您好，咱用河南话给您慢慢说。选好以后，教程跟页面里的声音，都用河南话。",
+      "file": "/tutorial/entry-sample-henan.mp3"
+    },
+    {
+      "id": "entry-experience",
+      "language": "henan",
+      "text": "以前用过家里话没？头一回用，可以选“头一回用”，咱一步一步学。用过了，就直接进去。",
+      "file": "/tutorial/entry-experience-henan.mp3"
+    },
+    {
+      "id": "self-role",
+      "language": "henan",
+      "text": "从顶部开始认识。右上角能切换老人版和子女版。下面三个按钮，帮您调到用着舒服。",
+      "file": "/tutorial/self-role-henan.mp3"
+    },
+    {
+      "id": "self-language",
+      "language": "henan",
+      "text": "先选熟悉的声音。普通话、河南话，点这儿切换。教程和页面会用您选的声音。",
+      "file": "/tutorial/self-language-henan.mp3"
+    },
+    {
+      "id": "self-font",
+      "language": "henan",
+      "text": "字小了，就在这里调。点这儿选更大的字。下次打开，也会记住您的字号。",
+      "file": "/tutorial/self-font-henan.mp3"
+    },
+    {
+      "id": "self-rate",
+      "language": "henan",
+      "text": "说得快，就让它慢一点。听不清，就选慢一点。还可以再慢一点。",
+      "file": "/tutorial/self-rate-henan.mp3"
+    },
+    {
+      "id": "self-speaker",
+      "language": "henan",
+      "text": "小喇叭，点一下就能听。标题旁的喇叭能读标题。功能旁的喇叭，会讲这个功能怎么用。",
+      "file": "/tutorial/self-speaker-henan.mp3"
+    },
+    {
+      "id": "self-history",
+      "language": "henan",
+      "text": "底部能找以前看过的。看过的话都在这儿，可以再看、再听。",
+      "file": "/tutorial/self-history-henan.mp3"
+    },
+    {
+      "id": "self-upload",
+      "language": "henan",
+      "text": "主要用这个按钮选图。选一张看不懂的截图，就能看大字、听解释。接下来可以跟着案例试。",
+      "file": "/tutorial/self-upload-henan.mp3"
+    },
+    {
+      "id": "self-invite",
+      "language": "henan",
+      "text": "要继续学主功能吗？。用预览案例练一遍；也可以先开始使用。",
+      "file": "/tutorial/self-invite-henan.mp3"
+    },
+    {
+      "id": "self-practice-pick",
+      "language": "henan",
+      "text": "第一步，打开相册。点亮着的按钮，打开演示相册。这次先用准备好的截图练习。",
+      "file": "/tutorial/self-practice-pick-henan.mp3"
+    },
+    {
+      "id": "self-practice-choose",
+      "language": "henan",
+      "text": "第二步，选这张截图。这是孩子说答辩通过的聊天截图。点亮着的这张图，把它选进来。",
+      "file": "/tutorial/self-practice-choose-henan.mp3"
+    },
+    {
+      "id": "self-practice-preview",
+      "language": "henan",
+      "text": "第三步，看看选对没有。这儿能查看选中的原图。选错了可以重新选；确认好，再往下看。",
+      "file": "/tutorial/self-practice-preview-henan.mp3"
+    },
+    {
+      "id": "self-practice-analyze",
+      "language": "henan",
+      "text": "选好以后，点这儿解读。点“帮俺讲明白”，就会把截图里的话，换成容易懂的解释。",
+      "file": "/tutorial/self-practice-analyze-henan.mp3"
+    },
+    {
+      "id": "self-practice-result",
+      "language": "henan",
+      "text": "解释就在这里。这张图说的是：孩子答辩通过了，周六想回家吃饺子。",
+      "file": "/tutorial/self-practice-result-henan.mp3"
+    },
+    {
+      "id": "self-practice-listen",
+      "language": "henan",
+      "text": "点这个标题，听完整解释。不想看字，就点亮着的标题。现在也可以先听听这段案例讲解。",
+      "file": "/tutorial/self-practice-listen-henan.mp3"
+    },
+    {
+      "id": "self-practice-terms",
+      "language": "henan",
+      "text": "不熟悉的词，单独讲明白。“答辩”“上岸”这些词，下面都有解释。点标题，也能听这一部分。",
+      "file": "/tutorial/self-practice-terms-henan.mp3"
+    },
+    {
+      "id": "self-practice-original",
+      "language": "henan",
+      "text": "想核对，就展开原话。这儿保留孩子原来发的话，方便对照着看。",
+      "file": "/tutorial/self-practice-original-henan.mp3"
+    },
+    {
+      "id": "self-practice-save",
+      "language": "henan",
+      "text": "看过的解释，会留在本机。正式使用时会保留解读，也能点这儿再保存。练习不会新增记录。",
+      "file": "/tutorial/self-practice-save-henan.mp3"
+    },
+    {
+      "id": "self-practice-finish",
+      "language": "henan",
+      "text": "学会了，下次就这样用。以后点底部“以前看过的”，还能找到。现在回首页，选您自己的截图吧。",
+      "file": "/tutorial/self-practice-finish-henan.mp3"
+    }
+  ]
+}

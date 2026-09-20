@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env*
+.data/
+data/
+*.log
+.DS_Store
+
+dist-pages/
+.release/
+!.env.example

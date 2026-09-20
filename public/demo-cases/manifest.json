@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "project": "家里话 Bay Tech 黑客松虚构演示案例",
+  "generatedOn": "2026-09-20",
+  "source": {
+    "path": "src/data.mjs",
+    "sha256": "e5b45e50be6ed31d8dc10bd2cb4f3d72690488fbe9ca9dc3ed61c1fa2f8e8e08",
+    "verification": "渲染时直接 import cases；成品 HTML 按 speaker/kind/text 逐项核对"
+  },
+  "rendering": {
+    "method": "controlled HTML/CSS + Google Chrome headless screenshot",
+    "width": 1080,
+    "height": 2340,
+    "format": "PNG",
+    "fictionalLabel": "虚构演示案例",
+    "wechatOnlineStatusShown": false
+  },
+  "cases": [
+    {
+      "caseId": "W1",
+      "sourceType": "wechat_chat",
+      "path": "/demo-cases/W1.png",
+      "sha256": "2ab25b053887edccf0f58362a67e5f40b3958eca049ac041659664830fc97991",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "外孙女晓晓",
+          "kind": "message",
+          "text": "姥姥，我今天毕业论文答辩过啦！这关终于上岸了😭"
+        },
+        {
+          "speaker": "外孙女晓晓",
+          "kind": "message",
+          "text": "周六回家，想吃您包的饺子。"
+        }
+      ]
+    },
+    {
+      "caseId": "W2",
+      "sourceType": "wechat_chat",
+      "path": "/demo-cases/W2.png",
+      "sha256": "e3f3c4d5a6412ba0df6f26e9ea20287078954bfb6c4e23bcbe3177389044dfc1",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "外孙女晓晓",
+          "kind": "message",
+          "text": "这两天有点emo，事情没做好。"
+        },
+        {
+          "speaker": "外孙女晓晓",
+          "kind": "message",
+          "text": "我没生病，周末想自己安静歇一歇，下周再和您视频。"
+        }
+      ]
+    },
+    {
+      "caseId": "W3",
+      "sourceType": "wechat_chat",
+      "path": "/demo-cases/W3.png",
+      "sha256": "5740f79c9b63affa1f464f96b7ab63fa1634969c158afa37cfadb3a23a0f2e81",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "儿子小军",
+          "kind": "message",
+          "text": "妈，我周五不回去了，改成周日。"
+        },
+        {
+          "speaker": "儿子小军",
+          "kind": "message",
+          "text": "车票249元，已经买好了，不用给我转钱。"
+        },
+        {
+          "speaker": "儿子小军",
+          "kind": "message",
+          "text": "到家前我给您打电话，您别去车站接。"
+        }
+      ]
+    },
+    {
+      "caseId": "P1",
+      "sourceType": "moments",
+      "path": "/demo-cases/P1.png",
+      "sha256": "0b3261643abf03f8eef2958a00c48e068f8156b75fbdf41a4c302e6c54423dc8",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "晓晓",
+          "kind": "post",
+          "text": "入职三个月，今天终于转正啦！"
+        },
+        {
+          "speaker": "阿圆",
+          "kind": "comment",
+          "text": "恭喜！下回请奶茶！"
+        },
+        {
+          "speaker": "晓晓",
+          "kind": "reply",
+          "text": "好呀，周末约。"
+        }
+      ]
+    },
+    {
+      "caseId": "P2",
+      "sourceType": "moments",
+      "path": "/demo-cases/P2.png",
+      "sha256": "5734e7298fbdb2e67c5d801bb3ab2ec36d2b0951cb4a2f4f698ddd04459acbe3",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "外孙小满",
+          "kind": "post",
+          "text": "校运会800米跑出PB！比上次快了12秒，给自己点个赞。"
+        },
+        {
+          "speaker": "妈妈",
+          "kind": "comment",
+          "text": "坚持训练没白费，真棒！"
+        }
+      ]
+    },
+    {
+      "caseId": "P3",
+      "sourceType": "moments",
+      "path": "/demo-cases/P3.png",
+      "sha256": "55a1a41a1823f7a4f40164f133e5de15580f74619243001f8b22a1c35d5fdb1b",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "外孙女晓晓",
+          "kind": "post",
+          "text": "收到姥姥寄的饺子，一开箱就破防了。突然特别想家。"
+        },
+        {
+          "speaker": "妈妈",
+          "kind": "comment",
+          "text": "吃完记得给姥姥打个电话。"
+        }
+      ]
+    },
+    {
+      "caseId": "S1",
+      "sourceType": "sms",
+      "path": "/demo-cases/S1.png",
+      "sha256": "bb8b0b7e04a4131c293f1ebbbfc147e0460a4bdea7fd427dc6a8ba4c02dbb7c8",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "10690000",
+          "kind": "message",
+          "text": "【示例快递】尾号2816的包裹已到春风驿站。取件码7-249，保管至9月22日18:00。"
+        },
+        {
+          "speaker": "10690000",
+          "kind": "message",
+          "text": "本次取件不收费，请勿向陌生人转账。"
+        }
+      ]
+    },
+    {
+      "caseId": "S2",
+      "sourceType": "sms",
+      "path": "/demo-cases/S2.png",
+      "sha256": "050b296bddc0c32e8c564c5fdcab46c769dc90dff383150de953f0f793d72eee",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "社区通知",
+          "kind": "message",
+          "text": "【春风社区·虚构示例】手工活动改至9月24日上午9:30，地点为社区服务中心2楼。不是原定的9月23日，活动不收报名费。"
+        }
+      ]
+    },
+    {
+      "caseId": "S3",
+      "sourceType": "sms",
+      "path": "/demo-cases/S3.png",
+      "sha256": "211e1cd6de3887fca0988d53bd63682b5e48c8f3756e29311380378a83a12deb",
+      "verbatimChecked": true,
+      "rows": [
+        {
+          "speaker": "运营商提醒",
+          "kind": "message",
+          "text": "【虚构套餐提醒】您本月套餐内流量已用8GB，剩余2GB。本短信仅提醒使用情况，未为您订购任何加油包。"
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "styleReference": "Project illustration style reference",
+    "generationMode": "OpenAI built-in imagegen",
+    "avatars": [
+      {
+        "role": "晓晓",
+        "path": "/demo-cases/assets/avatar-xiaoxiao.png",
+        "sha256": "2cf4755a05053cd73fb96d2c32986435e288c5ac98fb7059dffd1cfa5b976262"
+      },
+      {
+        "role": "妈妈",
+        "path": "/demo-cases/assets/avatar-mom.png",
+        "sha256": "8c31bd981512ebb9e15663de589a15e664a21ab9f94d41f4448bf44a82f8fbb3"
+      },
+      {
+        "role": "小军",
+        "path": "/demo-cases/assets/avatar-xiaojun.png",
+        "sha256": "775b6fe874cb0011b9573e569ab71158d03bacca21b89cddf4ab11ba3310e945"
+      },
+      {
+        "role": "小满",
+        "path": "/demo-cases/assets/avatar-xiaoman.png",
+        "sha256": "8bb54503cffc25fbb5e7ebe2bc94b103ddabe1bb7bf7bed006cb8aaf410ef36d"
+      },
+      {
+        "role": "阿圆",
+        "path": "/demo-cases/assets/avatar-ayuan.png",
+        "sha256": "989574010452d4777391df431b80b5ff0d2a112f7f11a3759842243c51ccc8e4"
+      }
+    ],
+    "momentsPhotos": [
+      {
+        "caseId": "P1",
+        "path": "/demo-cases/assets/moment-p1-work.png",
+        "sha256": "5cf5261ded4fced473a4360e237c1cd4f0f2d3f67f8345424029aaebc2d95f44",
+        "promptSummary": "晓晓在无品牌办公区为转正消息感到轻松喜悦；空白纸张，无文字与标识"
+      },
+      {
+        "caseId": "P2",
+        "path": "/demo-cases/assets/moment-p2-race.png",
+        "sha256": "84b6dff5b8b162660f9635b530b01aca807b8e509da061495adfbc136aea9e90",
+        "promptSummary": "小满800米跑后刷新个人最好成绩；无奖牌、名次、号码或校徽"
+      },
+      {
+        "caseId": "P3",
+        "path": "/demo-cases/assets/moment-p3-dumplings.png",
+        "sha256": "60526f1737affb9bedc9044730694956024381b633fa184d0d2a64e934f5f1b2",
+        "independentlyReusable": true,
+        "promptSummary": "快递箱中姥姥寄来的饺子；无文字、物流单和可识别信息"
+      }
+    ]
+  },
+  "safety": {
+    "containsTransactionProof": false,
+    "containsQrCode": false,
+    "containsVerificationMark": false,
+    "containsRealBrandOrInstitution": false
+  }
+}

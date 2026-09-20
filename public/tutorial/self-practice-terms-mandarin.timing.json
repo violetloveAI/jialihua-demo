@@ -1,0 +1,142 @@
+{
+  "id": "self-practice-terms",
+  "language": "mandarin",
+  "text": "不熟悉的词，单独讲明白。“答辩”“上岸”这些词，下面都有解释。点标题，也能听这一部分。",
+  "file": "/tutorial/self-practice-terms-mandarin.mp3",
+  "sha256": "6db9823ec0299af15fa37f5b61c638740aea88763ec0b6d40f67c0fbc704d6d2",
+  "duration": 9.19,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.1,
+      "end": 0.2625
+    },
+    {
+      "from": 1,
+      "to": 3,
+      "start": 0.2625,
+      "end": 0.575
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.575,
+      "end": 0.7
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.7,
+      "end": 1.1
+    },
+    {
+      "from": 6,
+      "to": 8,
+      "start": 1.3375,
+      "end": 1.675
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.6875,
+      "end": 1.9125
+    },
+    {
+      "from": 9,
+      "to": 11,
+      "start": 1.9125,
+      "end": 2.2625
+    },
+    {
+      "from": 13,
+      "to": 15,
+      "start": 2.825,
+      "end": 3.2375
+    },
+    {
+      "from": 17,
+      "to": 19,
+      "start": 3.35,
+      "end": 3.625
+    },
+    {
+      "from": 20,
+      "to": 22,
+      "start": 3.6375,
+      "end": 3.9625
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 3.9625,
+      "end": 4.2875
+    },
+    {
+      "from": 24,
+      "to": 26,
+      "start": 4.5375,
+      "end": 4.875
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.8875,
+      "end": 5.025
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.025,
+      "end": 5.15
+    },
+    {
+      "from": 28,
+      "to": 30,
+      "start": 5.1625,
+      "end": 5.6375
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 6.2,
+      "end": 6.425
+    },
+    {
+      "from": 32,
+      "to": 34,
+      "start": 6.425,
+      "end": 6.975
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 7.2,
+      "end": 7.375
+    },
+    {
+      "from": 36,
+      "to": 37,
+      "start": 7.375,
+      "end": 7.4875
+    },
+    {
+      "from": 37,
+      "to": 38,
+      "start": 7.5,
+      "end": 7.7
+    },
+    {
+      "from": 38,
+      "to": 39,
+      "start": 7.7,
+      "end": 7.8125
+    },
+    {
+      "from": 39,
+      "to": 42,
+      "start": 7.825,
+      "end": 8.325
+    }
+  ]
+}

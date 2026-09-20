@@ -1,0 +1,7 @@
+.screenshot-image{position:relative;display:block;max-width:none;margin:0;overflow:hidden;flex:none}
+.screenshot-image.is-cropped{background:#ededed}
+/* Natural content proportions replace fixed-height thumbnails that cut off replies. */
+.screenshot-image>img.demo-source-image{display:block;width:100%;height:auto;min-height:0;max-width:none;object-fit:contain;object-position:top;margin:0;border:0;border-radius:0;user-select:none}
+.screenshot-image.is-cropped>img.demo-source-image{position:absolute;inset:0 auto auto 0}
+.screenshot-open .screenshot-image>img.demo-source-image{height:auto;min-height:0}
+.picture-viewer-scroll .screenshot-image{margin:0 auto}

@@ -1,0 +1,208 @@
+{
+  "id": "self-role",
+  "language": "henan",
+  "text": "从顶部开始认识。右上角能切换老人版和子女版。下面三个按钮，帮您调到用着舒服。",
+  "file": "/tutorial/self-role-henan.mp3",
+  "sha256": "4d0fc5eb6aa961bed1db6d9c1c8af6f2bcaf4d81a2204503a225ecc96c387c4d",
+  "duration": 7.42,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.04,
+      "end": 0.28
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.72,
+      "end": 0.92
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.92,
+      "end": 0.96
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 0.96,
+      "end": 1.24
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.24,
+      "end": 1.48
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.72,
+      "end": 1.96
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 2.04,
+      "end": 2.16
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2.16,
+      "end": 2.4
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.4,
+      "end": 2.64
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.64,
+      "end": 2.76
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 3.2,
+      "end": 3.32
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.32,
+      "end": 3.64
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.64,
+      "end": 3.68
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.68,
+      "end": 4
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 4,
+      "end": 4.12
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 4.12,
+      "end": 4.38
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.64,
+      "end": 4.68
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.76,
+      "end": 4.88
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 5.04,
+      "end": 5.2
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 5.2,
+      "end": 5.36
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.36,
+      "end": 5.52
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.68,
+      "end": 5.88
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 5.88,
+      "end": 6.08
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 6.08,
+      "end": 6.2
+    },
+    {
+      "from": 32,
+      "to": 33,
+      "start": 6.2,
+      "end": 6.48
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 6.48,
+      "end": 6.56
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 6.72,
+      "end": 6.96
+    }
+  ]
+}

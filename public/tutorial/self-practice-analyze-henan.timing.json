@@ -1,0 +1,154 @@
+{
+  "id": "self-practice-analyze",
+  "language": "henan",
+  "text": "选好以后，点这儿解读。点“帮俺讲明白”，就会把截图里的话，换成容易懂的解释。",
+  "file": "/tutorial/self-practice-analyze-henan.mp3",
+  "sha256": "13dff8306ab45593e7e3abe314cbcbb0f43ed1887db4467d0636c31113c6c290",
+  "duration": 5.81,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.2
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.44,
+      "end": 0.52
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.68,
+      "end": 0.84
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 0.88,
+      "end": 0.96
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 0.96,
+      "end": 1.08
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.08,
+      "end": 1.16
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.16,
+      "end": 1.48
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.48,
+      "end": 1.6
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 1.64,
+      "end": 1.68
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 1.72,
+      "end": 1.76
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 1.76,
+      "end": 1.8
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 1.8,
+      "end": 1.84
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 1.84,
+      "end": 1.88
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 1.88,
+      "end": 2.226
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 2.92,
+      "end": 3
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 3,
+      "end": 3.2
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 3.2,
+      "end": 3.32
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 3.32,
+      "end": 3.56
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 3.56,
+      "end": 3.72
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 3.72,
+      "end": 3.84
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 3.84,
+      "end": 3.88
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 3.88,
+      "end": 3.92
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 3.96,
+      "end": 4.08
+    }
+  ]
+}

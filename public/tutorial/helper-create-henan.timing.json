@@ -1,0 +1,208 @@
+{
+  "id": "helper-create",
+  "language": "henan",
+  "text": "把关心，写给家人。从这里贴一段文字，也可以放照片。预览后，可制作大字长图或有声视频。",
+  "file": "/tutorial/helper-create-henan.mp3",
+  "sha256": "d1d6ea9fade4b7eec81721b3c86e3fedbd176564008fafa944657b4408a13036",
+  "duration": 8.45,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.04,
+      "end": 0.32
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.56,
+      "end": 0.76
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 1.16,
+      "end": 1.36
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 1.36,
+      "end": 1.6
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.6,
+      "end": 1.8
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.8,
+      "end": 2.02
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 2.24,
+      "end": 2.4
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.56,
+      "end": 2.76
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.8,
+      "end": 2.92
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.92,
+      "end": 3.08
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 3.08,
+      "end": 3.16
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 3.16,
+      "end": 3.373
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.373,
+      "end": 3.586
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.8,
+      "end": 3.92
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.96,
+      "end": 4
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 4,
+      "end": 4.2
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 4.2,
+      "end": 4.28
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.28,
+      "end": 4.546
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.546,
+      "end": 4.813
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 5.08,
+      "end": 5.2
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 5.2,
+      "end": 5.44
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.44,
+      "end": 5.68
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.8,
+      "end": 5.92
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 5.92,
+      "end": 6
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 6,
+      "end": 6.32
+    },
+    {
+      "from": 32,
+      "to": 33,
+      "start": 6.32,
+      "end": 6.36
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 6.36,
+      "end": 6.72
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "start": 6.72,
+      "end": 6.84
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 7,
+      "end": 7.16
+    },
+    {
+      "from": 36,
+      "to": 37,
+      "start": 7.24,
+      "end": 7.32
+    },
+    {
+      "from": 37,
+      "to": 38,
+      "start": 7.52,
+      "end": 7.6
+    }
+  ]
+}

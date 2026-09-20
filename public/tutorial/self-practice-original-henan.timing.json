@@ -1,0 +1,160 @@
+{
+  "id": "self-practice-original",
+  "language": "henan",
+  "text": "想核对，就展开原话。这儿保留孩子原来发的话，方便对照着看。",
+  "file": "/tutorial/self-practice-original-henan.mp3",
+  "sha256": "d2a467f4d0b4425cf2987ab9ba29c309b14dc350752822377171793efda44ea5",
+  "duration": 6.29,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.4
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.44,
+      "end": 0.64
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.68,
+      "end": 0.8
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 1.12,
+      "end": 1.24
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 1.32,
+      "end": 1.44
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.52,
+      "end": 1.68
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.72,
+      "end": 1.8
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.96,
+      "end": 1.972
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 1.984,
+      "end": 1.996
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 1.996,
+      "end": 2.008
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.008,
+      "end": 2.02
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.02,
+      "end": 2.032
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.032,
+      "end": 2.044
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.044,
+      "end": 2.056
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 2.056,
+      "end": 2.068
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 2.068,
+      "end": 2.08
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 2.08,
+      "end": 2.16
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 2.16,
+      "end": 2.808
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 2.808,
+      "end": 3.456
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.104,
+      "end": 4.752
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.752,
+      "end": 5.4
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 5.4,
+      "end": 5.48
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 5.48,
+      "end": 5.68
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 5.68,
+      "end": 5.88
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.88,
+      "end": 6
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "entry-question",
+  "language": "mandarin",
+  "text": "更想听的语言。您可以先听听普通话和河南话，再选一个喜欢的声音。",
+  "file": "/tutorial/entry-question-mandarin.mp3",
+  "sha256": "9cd9c344642877d192c34a4e219eb4ee35fb5e57bedf57abc7da1b8559584e8f",
+  "duration": 6.84,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.1,
+      "end": 0.2875
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.2875,
+      "end": 0.4875
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.4875,
+      "end": 0.6625
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.6625,
+      "end": 0.75
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "start": 0.7625,
+      "end": 1.2125
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.775,
+      "end": 1.95
+    },
+    {
+      "from": 8,
+      "to": 10,
+      "start": 1.9625,
+      "end": 2.2625
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2.275,
+      "end": 2.475
+    },
+    {
+      "from": 11,
+      "to": 13,
+      "start": 2.4875,
+      "end": 2.9
+    },
+    {
+      "from": 13,
+      "to": 16,
+      "start": 2.9125,
+      "end": 3.475
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.4875,
+      "end": 3.625
+    },
+    {
+      "from": 17,
+      "to": 19,
+      "start": 3.6375,
+      "end": 4.0375
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 4.0375,
+      "end": 4.275
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 4.525,
+      "end": 4.725
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.725,
+      "end": 4.9
+    },
+    {
+      "from": 23,
+      "to": 25,
+      "start": 4.9125,
+      "end": 5.0875
+    },
+    {
+      "from": 25,
+      "to": 27,
+      "start": 5.1,
+      "end": 5.475
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.475,
+      "end": 5.55
+    },
+    {
+      "from": 28,
+      "to": 30,
+      "start": 5.5625,
+      "end": 5.9625
+    }
+  ]
+}

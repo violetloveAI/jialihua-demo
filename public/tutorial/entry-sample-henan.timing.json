@@ -1,0 +1,178 @@
+{
+  "id": "entry-sample",
+  "language": "henan",
+  "text": "您好，咱用河南话给您慢慢说。选好以后，教程跟页面里的声音，都用河南话。",
+  "file": "/tutorial/entry-sample-henan.mp3",
+  "sha256": "62e1245a25e5d24b2a46bd4b4e5c248832d980f51277e9bcbc0d341cf18c92ab",
+  "duration": 5.98,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.24
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.28,
+      "end": 0.48
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.52,
+      "end": 0.64
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.64,
+      "end": 0.84
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 0.84,
+      "end": 0.96
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1,
+      "end": 1.12
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.12,
+      "end": 1.2
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.2,
+      "end": 1.28
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.28,
+      "end": 1.453
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 1.453,
+      "end": 1.626
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 1.626,
+      "end": 1.8
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 1.8,
+      "end": 2
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.32,
+      "end": 2.52
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.64,
+      "end": 2.76
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 2.76,
+      "end": 2.946
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 2.946,
+      "end": 3.133
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.32,
+      "end": 3.4
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.4,
+      "end": 3.68
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 3.68,
+      "end": 3.8
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 3.8,
+      "end": 4.08
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.08,
+      "end": 4.2
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.2,
+      "end": 4.336
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.336,
+      "end": 4.472
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.472,
+      "end": 4.608
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 4.608,
+      "end": 4.744
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 4.88,
+      "end": 5
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 5,
+      "end": 5.2
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 5.2,
+      "end": 5.32
+    }
+  ]
+}

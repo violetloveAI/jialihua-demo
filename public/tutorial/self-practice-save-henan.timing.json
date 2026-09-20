@@ -1,0 +1,214 @@
+{
+  "id": "self-practice-save",
+  "language": "henan",
+  "text": "看过的解释，会留在本机。正式使用时会保留解读，也能点这儿再保存。练习不会新增记录。",
+  "file": "/tutorial/self-practice-save-henan.mp3",
+  "sha256": "d2725112ee7ba21c318084c76e678e910941c7ddda7dd732ef57feb68face047",
+  "duration": 8.09,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.28
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.32,
+      "end": 0.44
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.44,
+      "end": 0.52
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.52,
+      "end": 0.8
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.96,
+      "end": 1.08
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.12,
+      "end": 1.24
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.32,
+      "end": 1.44
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.52,
+      "end": 1.64
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.64,
+      "end": 2
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2,
+      "end": 2.12
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.36,
+      "end": 2.6
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.6,
+      "end": 2.84
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.84,
+      "end": 3.08
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 3.08,
+      "end": 3.2
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.2,
+      "end": 3.432
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.432,
+      "end": 3.664
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.664,
+      "end": 3.896
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.896,
+      "end": 4.128
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 4.128,
+      "end": 4.36
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 4.36,
+      "end": 4.48
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.64,
+      "end": 4.76
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.76,
+      "end": 5.08
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 5.08,
+      "end": 5.16
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 5.16,
+      "end": 5.35
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.35,
+      "end": 5.54
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "start": 5.54,
+      "end": 5.73
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.73,
+      "end": 5.92
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 5.92,
+      "end": 6
+    },
+    {
+      "from": 32,
+      "to": 33,
+      "start": 6.28,
+      "end": 6.44
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 6.44,
+      "end": 6.7
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "start": 6.7,
+      "end": 6.96
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 6.96,
+      "end": 7
+    },
+    {
+      "from": 36,
+      "to": 37,
+      "start": 7.16,
+      "end": 7.24
+    },
+    {
+      "from": 37,
+      "to": 38,
+      "start": 7.36,
+      "end": 7.4
+    }
+  ]
+}

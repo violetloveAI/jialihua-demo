@@ -1,0 +1,7 @@
+.helper-guidance{margin:24px 0;padding:20px 18px;border:1px solid #ded5ba;border-radius:20px;background:#f5efdf;color:#435642}
+.guidance-label{display:flex;align-items:center;gap:8px;font-size:15px;font-weight:650;color:#6f7657}.guidance-label svg{width:20px;height:20px;flex:none}
+.helper-guidance .guidance-note{font-size:13px;line-height:1.7;color:#776f5b;margin:8px 0 17px}
+.helper-guidance .uncertainties{margin:0 0 18px;padding:0;background:none;border:0;border-radius:0}
+.helper .helper-guidance h2{font-size:18px;margin:0 0 8px;line-height:1.5}
+.helper .helper-guidance ul{font-size:15px;line-height:1.8;margin:0;padding-left:20px}.helper-guidance li+li{margin-top:8px}
+.helper-guidance .communication-suggestions{padding-top:16px;border-top:1px solid #ded5ba}

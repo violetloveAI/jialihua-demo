@@ -1,0 +1,196 @@
+{
+  "id": "self-practice-pick",
+  "language": "henan",
+  "text": "第一步，打开相册。点亮着的按钮，打开演示相册。这次先用准备好的截图练习。",
+  "file": "/tutorial/self-practice-pick-henan.mp3",
+  "sha256": "1a99629b068430b2540619b446db551bf221a35dd85decb5fbcba4db785ed09b",
+  "duration": 6.74,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.04,
+      "end": 0.24
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.24,
+      "end": 0.36
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.36,
+      "end": 0.56
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.88,
+      "end": 1
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 1.04,
+      "end": 1.16
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.24,
+      "end": 1.4
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.48,
+      "end": 1.64
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.84,
+      "end": 2
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2,
+      "end": 2.173
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.173,
+      "end": 2.346
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.346,
+      "end": 2.52
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.52,
+      "end": 2.693
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.693,
+      "end": 2.866
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.04,
+      "end": 3.12
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.16,
+      "end": 3.32
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.32,
+      "end": 3.56
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.56,
+      "end": 3.8
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.8,
+      "end": 3.84
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 4,
+      "end": 4.12
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.36,
+      "end": 4.48
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.72,
+      "end": 4.96
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.96,
+      "end": 5.04
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "start": 5.24,
+      "end": 5.36
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.4,
+      "end": 5.56
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 5.56,
+      "end": 5.76
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 5.76,
+      "end": 5.96
+    },
+    {
+      "from": 32,
+      "to": 33,
+      "start": 5.96,
+      "end": 6.04
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 6.04,
+      "end": 6.4
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "start": 6.4,
+      "end": 6.48
+    }
+  ]
+}

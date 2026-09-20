@@ -1,0 +1,178 @@
+{
+  "id": "self-practice-listen",
+  "language": "henan",
+  "text": "点这个标题，听完整解释。不想看字，就点亮着的标题。现在也可以先听听这段案例讲解。",
+  "file": "/tutorial/self-practice-listen-henan.mp3",
+  "sha256": "4a642e92066157b550c2e508f744ceebd9d86bc725efeab95322042952c95b99",
+  "duration": 7.46,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.04,
+      "end": 0.24
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.28,
+      "end": 0.36
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.36,
+      "end": 0.4
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.44,
+      "end": 0.68
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.72,
+      "end": 0.92
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.1,
+      "end": 1.28
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.28,
+      "end": 1.4
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.44,
+      "end": 1.6
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 1.84,
+      "end": 2.08
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.2,
+      "end": 2.32
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.4,
+      "end": 2.48
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.6,
+      "end": 2.68
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.84,
+      "end": 3
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.186,
+      "end": 3.373
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.373,
+      "end": 3.56
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.56,
+      "end": 3.746
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.746,
+      "end": 3.933
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 3.933,
+      "end": 4.12
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.12,
+      "end": 4.306
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.306,
+      "end": 4.493
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.68,
+      "end": 4.8
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.92,
+      "end": 5.04
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.04,
+      "end": 5.24
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "start": 5.24,
+      "end": 5.32
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.32,
+      "end": 5.52
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 5.52,
+      "end": 5.6
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 5.72,
+      "end": 5.8
+    }
+  ]
+}

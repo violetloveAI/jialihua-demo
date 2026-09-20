@@ -1,0 +1,172 @@
+{
+  "id": "entry-question",
+  "language": "henan",
+  "text": "更想听的语言。您可以先听听普通话跟河南话，再挑个喜欢的声音。",
+  "file": "/tutorial/entry-question-henan.mp3",
+  "sha256": "404f777ad58021d1696df16b09148d86f2044064c9b18aa6edab3d0fe8582a55",
+  "duration": 5.57,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.24
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.32,
+      "end": 0.52
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.6,
+      "end": 0.72
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.84,
+      "end": 0.88
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.92,
+      "end": 1.12
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 1.16,
+      "end": 1.28
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.6,
+      "end": 1.64
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.64,
+      "end": 1.92
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 1.92,
+      "end": 2
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2,
+      "end": 2.12
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.12,
+      "end": 2.24
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.24,
+      "end": 2.36
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.36,
+      "end": 2.4
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.4,
+      "end": 2.78
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 2.78,
+      "end": 3.16
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.16,
+      "end": 3.28
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.36,
+      "end": 3.48
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.48,
+      "end": 3.7
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 3.92,
+      "end": 4.08
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.08,
+      "end": 4.26
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.26,
+      "end": 4.44
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.44,
+      "end": 4.6
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.6,
+      "end": 4.76
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.76,
+      "end": 4.92
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 4.92,
+      "end": 5.08
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "start": 5.08,
+      "end": 5.36
+    }
+  ]
+}

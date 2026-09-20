@@ -1,0 +1,160 @@
+{
+  "id": "self-practice-finish",
+  "language": "mandarin",
+  "text": "学会了，下次就这样用。以后点底部“以前看过的”，还能找到。现在回首页，选您自己的截图吧。",
+  "file": "/tutorial/self-practice-finish-mandarin.mp3",
+  "sha256": "57a2bfe590c50f32a6d8dfd719871123e9f3533be1e571a4fe1aecefcc972edb",
+  "duration": 9.22,
+  "cues": [
+    {
+      "from": 0,
+      "to": 2,
+      "start": 0.1,
+      "end": 0.575
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.575,
+      "end": 0.7125
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "start": 0.95,
+      "end": 1.3375
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.35,
+      "end": 1.4625
+    },
+    {
+      "from": 7,
+      "to": 9,
+      "start": 1.475,
+      "end": 1.7375
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.7375,
+      "end": 1.95
+    },
+    {
+      "from": 11,
+      "to": 13,
+      "start": 2.5125,
+      "end": 2.8625
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.8625,
+      "end": 3.05
+    },
+    {
+      "from": 14,
+      "to": 16,
+      "start": 3.0625,
+      "end": 3.3
+    },
+    {
+      "from": 17,
+      "to": 19,
+      "start": 3.3125,
+      "end": 3.6375
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.65,
+      "end": 3.875
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.875,
+      "end": 4.0125
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 4.0125,
+      "end": 4.2
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.4125,
+      "end": 4.575
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.575,
+      "end": 4.7
+    },
+    {
+      "from": 26,
+      "to": 28,
+      "start": 4.7125,
+      "end": 5.1125
+    },
+    {
+      "from": 29,
+      "to": 31,
+      "start": 5.675,
+      "end": 6.125
+    },
+    {
+      "from": 31,
+      "to": 33,
+      "start": 6.1375,
+      "end": 6.5
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 6.5,
+      "end": 6.775
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 7,
+      "end": 7.2125
+    },
+    {
+      "from": 36,
+      "to": 37,
+      "start": 7.2125,
+      "end": 7.3875
+    },
+    {
+      "from": 37,
+      "to": 39,
+      "start": 7.4,
+      "end": 7.65
+    },
+    {
+      "from": 39,
+      "to": 40,
+      "start": 7.65,
+      "end": 7.7375
+    },
+    {
+      "from": 40,
+      "to": 42,
+      "start": 7.75,
+      "end": 8.15
+    },
+    {
+      "from": 42,
+      "to": 43,
+      "start": 8.15,
+      "end": 8.35
+    }
+  ]
+}

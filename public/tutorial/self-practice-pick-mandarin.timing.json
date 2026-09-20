@@ -1,0 +1,124 @@
+{
+  "id": "self-practice-pick",
+  "language": "mandarin",
+  "text": "第一步，打开相册。点亮着的按钮，打开演示相册。这次先用准备好的截图练习。",
+  "file": "/tutorial/self-practice-pick-mandarin.mp3",
+  "sha256": "95e4830f3496b316482202f2b0aa309de43cc91686331a0af38b45ec059de31c",
+  "duration": 8.23,
+  "cues": [
+    {
+      "from": 0,
+      "to": 2,
+      "start": 0.1,
+      "end": 0.3625
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.3625,
+      "end": 0.6
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "start": 0.8125,
+      "end": 1.125
+    },
+    {
+      "from": 6,
+      "to": 8,
+      "start": 1.1375,
+      "end": 1.6
+    },
+    {
+      "from": 9,
+      "to": 11,
+      "start": 2.1625,
+      "end": 2.55
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.55,
+      "end": 2.65
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.65,
+      "end": 2.7375
+    },
+    {
+      "from": 13,
+      "to": 15,
+      "start": 2.75,
+      "end": 3.1625
+    },
+    {
+      "from": 16,
+      "to": 18,
+      "start": 3.4125,
+      "end": 3.825
+    },
+    {
+      "from": 18,
+      "to": 20,
+      "start": 3.8375,
+      "end": 4.175
+    },
+    {
+      "from": 20,
+      "to": 22,
+      "start": 4.1875,
+      "end": 4.675
+    },
+    {
+      "from": 23,
+      "to": 25,
+      "start": 5.2375,
+      "end": 5.6
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 5.6125,
+      "end": 5.8
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 5.8,
+      "end": 5.95
+    },
+    {
+      "from": 27,
+      "to": 29,
+      "start": 5.9625,
+      "end": 6.25
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 6.25,
+      "end": 6.4375
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 6.4375,
+      "end": 6.5375
+    },
+    {
+      "from": 31,
+      "to": 33,
+      "start": 6.55,
+      "end": 6.875
+    },
+    {
+      "from": 33,
+      "to": 35,
+      "start": 6.8875,
+      "end": 7.3625
+    }
+  ]
+}

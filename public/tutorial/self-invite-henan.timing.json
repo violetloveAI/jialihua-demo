@@ -1,0 +1,148 @@
+{
+  "id": "self-invite",
+  "language": "henan",
+  "text": "要继续学主功能吗？。用预览案例练一遍；也可以先开始使用。",
+  "file": "/tutorial/self-invite-henan.mp3",
+  "sha256": "772db3f0389d81215489b91d7599d3b353a507dfbb922f8e28be3be90a6e744d",
+  "duration": 5.5,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.32
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.44,
+      "end": 0.6
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.6,
+      "end": 0.84
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.84,
+      "end": 1.08
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 1.08,
+      "end": 1.24
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 1.28,
+      "end": 1.4
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.68,
+      "end": 1.853
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2.2,
+      "end": 2.4
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.44,
+      "end": 2.56
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.56,
+      "end": 2.768
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.768,
+      "end": 2.976
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.976,
+      "end": 3.184
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 3.184,
+      "end": 3.392
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.392,
+      "end": 3.6
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.6,
+      "end": 3.76
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.832,
+      "end": 3.904
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.904,
+      "end": 3.976
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 3.976,
+      "end": 4.048
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.048,
+      "end": 4.12
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.12,
+      "end": 4.2
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.2,
+      "end": 4.96
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.96,
+      "end": 5.12
+    }
+  ]
+}

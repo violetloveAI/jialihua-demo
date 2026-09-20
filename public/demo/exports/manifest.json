@@ -1,0 +1,620 @@
+{
+  "version": 1,
+  "videos": [
+    {
+      "id": "W1",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "姥姥，我答辩通过啦",
+        "text": "晓晓说，她今天通过了毕业论文答辩。\n她说“这关上岸了”，是说这件盼望完成的事终于办成了。\n她打算周六回家，想吃姥姥包的饺子。",
+        "origin": "prepared-screenshot",
+        "caseId": "W1",
+        "pictures": []
+      },
+      "url": "/demo/exports/W1-mandarin.mp4",
+      "bytes": 266855,
+      "sha256": "2489912ffea2494154cfc3879c99ffe30a020ab04785d6f9a28a5e5bea39e869",
+      "duration": "00:00:13.24",
+      "meanVolumeDb": -22.2,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/W1-mandarin-page1.png",
+          "text": "晓晓说，她今天通过了毕业论文答辩。\n她说“这关上岸了”，是说这件盼望完成的事终于办成了。\n她打算周六回家，想吃姥姥包的饺子。",
+          "sha256": "c53af45b5b20d337f0183436754634f92ebae966c4d0195cfc9b916555f04636"
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "孩子说emo，是怎么了",
+        "text": "晓晓说，这两天因为事情没做好，心情有些低落。\n她明确说自己没生病。周末想安静休息，下周再和您视频。",
+        "origin": "prepared-screenshot",
+        "caseId": "W2",
+        "pictures": []
+      },
+      "url": "/demo/exports/W2-mandarin.mp4",
+      "bytes": 232757,
+      "sha256": "c803b80915a54598720d763fc07368769eee792146e8a592c8f5abaec5c7a42d",
+      "duration": "00:00:11.73",
+      "meanVolumeDb": -21.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/W2-mandarin-page1.png",
+          "text": "晓晓说，这两天因为事情没做好，心情有些低落。\n她明确说自己没生病。周末想安静休息，下周再和您视频。",
+          "sha256": "13c93eb3824f096d5dff042bc21684160669f976a2b563e6cc992b7b0205430a"
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "周五不回，改成周日",
+        "text": "小军改了回家的时间：周五不回来，改成周日。\n249元的车票他已经买好，不用给他转钱。\n他到家前会打电话，让妈妈不要去车站接。",
+        "origin": "prepared-screenshot",
+        "caseId": "W3",
+        "pictures": []
+      },
+      "url": "/demo/exports/W3-mandarin.mp4",
+      "bytes": 269136,
+      "sha256": "f1e400e482b2216919d49835234b5386b5213fa61ac1adddfc4c1b4190272160",
+      "duration": "00:00:13.88",
+      "meanVolumeDb": -23.1,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/W3-mandarin-page1.png",
+          "text": "小军改了回家的时间：周五不回来，改成周日。\n249元的车票他已经买好，不用给他转钱。\n他到家前会打电话，让妈妈不要去车站接。",
+          "sha256": "6d623238ae9803daf7be300f951ab71e2338eebf55396d641c33250f689f3c79"
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "转正了，评论也得分清",
+        "text": "晓晓说，她入职三个月，今天已经通过试用期，成为正式员工。\n朋友阿圆在评论里祝贺她，还约她请奶茶。晓晓回复说周末约。",
+        "origin": "prepared-screenshot",
+        "caseId": "P1",
+        "pictures": []
+      },
+      "url": "/demo/exports/P1-mandarin.mp4",
+      "bytes": 260500,
+      "sha256": "6c73d68007d678da8a9c9c5fb4d5753d06a91b3571e6b472dc9d017ec2f30726",
+      "duration": "00:00:13.24",
+      "meanVolumeDb": -22.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/P1-mandarin-page1.png",
+          "text": "晓晓说，她入职三个月，今天已经通过试用期，成为正式员工。\n朋友阿圆在评论里祝贺她，还约她请奶茶。晓晓回复说周末约。",
+          "sha256": "68f7e57bcbf0e99e9581488ce846f74aebd1dafd9b132043ff35ac4ff2a83b0c"
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "孩子拿了PB，是什么奖",
+        "text": "小满参加校运会的800米跑步，比自己上次快了12秒。\n“PB”是他自己的最好成绩，不代表他得了全校第一。\n妈妈在评论里夸他坚持训练。",
+        "origin": "prepared-screenshot",
+        "caseId": "P2",
+        "pictures": []
+      },
+      "url": "/demo/exports/P2-mandarin.mp4",
+      "bytes": 273223,
+      "sha256": "9ab714cc5ef14b27fd48bb259aab064256cdf8b0ede314e5fd76ad5ede2795cf",
+      "duration": "00:00:13.60",
+      "meanVolumeDb": -22.9,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/P2-mandarin-page1.png",
+          "text": "小满参加校运会的800米跑步，比自己上次快了12秒。\n“PB”是他自己的最好成绩，不代表他得了全校第一。\n妈妈在评论里夸他坚持训练。",
+          "sha256": "6031f3a0ee0838658d937758249bec05dc9843ad2985095e796176fbb7f8ec55"
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "一盒饺子，让孩子破防了",
+        "text": "晓晓收到了姥姥寄来的饺子，看见后很受触动，突然特别想家。\n这里的“破防”是在说自己的情绪被触动了。\n妈妈在评论里提醒她，吃完给姥姥打电话。",
+        "origin": "prepared-screenshot",
+        "caseId": "P3",
+        "pictures": []
+      },
+      "url": "/demo/exports/P3-mandarin.mp4",
+      "bytes": 295349,
+      "sha256": "2991eedd89576faf8ac691a6be90b21f8eb71b1a915825304ca49657400a408e",
+      "duration": "00:00:14.20",
+      "meanVolumeDb": -23.1,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/P3-mandarin-page1.png",
+          "text": "晓晓收到了姥姥寄来的饺子，看见后很受触动，突然特别想家。\n这里的“破防”是在说自己的情绪被触动了。\n妈妈在评论里提醒她，吃完给姥姥打电话。",
+          "sha256": "2b6a78bb0b0ae64abeb712fa9072d3ceb10e8cb184297de6d6252c4771faa281"
+        }
+      ]
+    },
+    {
+      "id": "S1",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "取件码再也不用到处翻",
+        "text": "短信写着，尾号2816的包裹到了春风驿站。\n取件码：7-249。保管到9月22日18:00。\n短信写明，本次取件不收费，不要向陌生人转账。",
+        "origin": "prepared-screenshot",
+        "caseId": "S1",
+        "pictures": []
+      },
+      "url": "/demo/exports/S1-mandarin.mp4",
+      "bytes": 300158,
+      "sha256": "e2ccf9d5791d8c8a6090b2682491d43e65704dfe6874eec2864997439b7d814e",
+      "duration": "00:00:15.93",
+      "meanVolumeDb": -22,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/S1-mandarin-page1.png",
+          "text": "短信写着，尾号2816的包裹到了春风驿站。\n取件码：7-249。保管到9月22日18:00。\n短信写明，本次取件不收费，不要向陌生人转账。",
+          "sha256": "338a21730391364e503383d1c22f6f00ff93d1c8d4e7e9f27f60b87353824d21"
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "活动改期，可别白跑一趟",
+        "text": "这条通知说，手工活动改到9月24日上午9:30。\n地点是社区服务中心2楼。\n不要按原来的9月23日去。通知说活动不收报名费。",
+        "origin": "prepared-screenshot",
+        "caseId": "S2",
+        "pictures": []
+      },
+      "url": "/demo/exports/S2-mandarin.mp4",
+      "bytes": 272006,
+      "sha256": "0a15d012c6274928ec650675cf4d97c70720ceeb8a8731e62ae812f9456ef408",
+      "duration": "00:00:14.25",
+      "meanVolumeDb": -22.1,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/S2-mandarin-page1.png",
+          "text": "这条通知说，手工活动改到9月24日上午9:30。\n地点是社区服务中心2楼。\n不要按原来的9月23日去。通知说活动不收报名费。",
+          "sha256": "f4cc3fc9e4616b45666a3e3fcdebead207236e0bd5b552700b03b18111641142"
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "流量提醒，不等于欠费",
+        "text": "短信说，本月套餐里的手机上网流量用了8GB，还剩2GB。\n短信明确说没有替您购买额外流量包。\n这条短信没有说您欠费，也没有要求您付款。",
+        "origin": "prepared-screenshot",
+        "caseId": "S3",
+        "pictures": []
+      },
+      "url": "/demo/exports/S3-mandarin.mp4",
+      "bytes": 290635,
+      "sha256": "4b2d13d05dc314f2ac72002b1d190f460208d1dc7e6defdbc5b122d75d5d509c",
+      "duration": "00:00:14.34",
+      "meanVolumeDb": -22.3,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/S3-mandarin-page1.png",
+          "text": "短信说，本月套餐里的手机上网流量用了8GB，还剩2GB。\n短信明确说没有替您购买额外流量包。\n这条短信没有说您欠费，也没有要求您付款。",
+          "sha256": "5ef77c1d65f21f23a672fecf92593880ca18d9a705cd201a637acec2704399ef"
+        }
+      ]
+    },
+    {
+      "id": "C1",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "周日回家，一起吃饺子",
+        "text": "妈，我这周日回家。车票已经买好了，不用给我转钱。您别去车站接我，到家前我给您打电话。晚上咱一起吃饺子。",
+        "origin": "composition",
+        "caseId": null,
+        "pictures": [
+          "/demo-cases/assets/moment-p3-dumplings.png"
+        ]
+      },
+      "url": "/demo/exports/C1-mandarin.mp4",
+      "bytes": 296911,
+      "sha256": "29fa3e7f5bf0d2c9b45870cb89a5524ed031f96e86b03c11915bedec60cec238",
+      "duration": "00:00:11.68",
+      "meanVolumeDb": -22.8,
+      "pictures": [
+        {
+          "url": "/demo-cases/assets/moment-p3-dumplings.png",
+          "sha256": "60526f1737affb9bedc9044730694956024381b633fa184d0d2a64e934f5f1b2"
+        }
+      ],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/C1-mandarin-page1.png",
+          "text": "妈，我这周日回家。车票已经买好了，不用给我转钱。您别去车站接我，到家前我给您打电话。晚上咱一起吃饺子。",
+          "sha256": "7c1dbb3aa8310af5e76fa540d0a55196dcbfab7a78623fefc4180ab8958bb378"
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "分享孩子的小进步",
+        "text": "妈，小满今天参加了学校的八百米跑步比赛，比他自己上次快了十二秒。他一直坚持练习，想把这个好消息告诉您。",
+        "origin": "composition",
+        "caseId": null,
+        "pictures": []
+      },
+      "url": "/demo/exports/C2-mandarin.mp4",
+      "bytes": 227902,
+      "sha256": "a151f2b84fc4719758a489a1756c412690af4c0f0227be7308b7ec4dfbbc2695",
+      "duration": "00:00:11.17",
+      "meanVolumeDb": -22.7,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/C2-mandarin-page1.png",
+          "text": "妈，小满今天参加了学校的八百米跑步比赛，比他自己上次快了十二秒。他一直坚持练习，想把这个好消息告诉您。",
+          "sha256": "079084c1ed52bffde17086fc2528a7ae8ba62efc8600e7d35a9e293f5e16495d"
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "identity": {
+        "version": 1,
+        "language": "mandarin",
+        "title": "记得按时吃饭",
+        "text": "妈，今天下班有点晚，我已经吃过饭了，您不用等我。您和爸记得按时吃饭，晚上我再给您打电话。",
+        "origin": "composition",
+        "caseId": null,
+        "pictures": []
+      },
+      "url": "/demo/exports/C3-mandarin.mp4",
+      "bytes": 156483,
+      "sha256": "5ea7a65d084d2bcb0b38efeeef2017e01849ef8d640f5f32c3687f7c4e2b9020",
+      "duration": "00:00:09.69",
+      "meanVolumeDb": -22.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/C3-mandarin-page1.png",
+          "text": "妈，今天下班有点晚，我已经吃过饭了，您不用等我。您和爸记得按时吃饭，晚上我再给您打电话。",
+          "sha256": "9b7b052c6065da11b3bef22df4c717afc5030d6b310021929670418884e45995"
+        }
+      ]
+    },
+    {
+      "id": "W1",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "姥姥，俺答辩过啦",
+        "text": "晓晓说，她今儿毕业论文答辩过了。\n她说“这关上岸了”，就是说，盼着办成的这件事，总算办成了。\n她打算周六回家，想吃姥姥包的饺子。",
+        "origin": "prepared-screenshot",
+        "caseId": "W1",
+        "pictures": []
+      },
+      "url": "/demo/exports/W1-henan.mp4",
+      "bytes": 254598,
+      "sha256": "d518fcdc66c19e327dc10f179a226b58b5f400f56b774a31e41d499560cd8840",
+      "duration": "00:00:11.52",
+      "meanVolumeDb": -21.4,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/W1-henan-page1.png",
+          "text": "晓晓说，她今儿毕业论文答辩过了。\n她说“这关上岸了”，就是说，盼着办成的这件事，总算办成了。\n她打算周六回家，想吃姥姥包的饺子。",
+          "sha256": "2b074fd9930bad08069bfc4075e1f526e46a85336c42bf12abb6997ec505e14c"
+        }
+      ]
+    },
+    {
+      "id": "W2",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "孩子说emo，是咋了",
+        "text": "晓晓说，这两天事儿没做好，心里有点不得劲儿。\n她明说了，自个儿没生病。周末想安安静静歇歇，下周再跟您视频。",
+        "origin": "prepared-screenshot",
+        "caseId": "W2",
+        "pictures": []
+      },
+      "url": "/demo/exports/W2-henan.mp4",
+      "bytes": 189937,
+      "sha256": "0c3e4eaae01973ef5de861cc21af21a5ca433e3f4961ae5c96a2a6a80cb9f5d1",
+      "duration": "00:00:10.07",
+      "meanVolumeDb": -21.6,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/W2-henan-page1.png",
+          "text": "晓晓说，这两天事儿没做好，心里有点不得劲儿。\n她明说了，自个儿没生病。周末想安安静静歇歇，下周再跟您视频。",
+          "sha256": "eecc41c7f73aff275915e0fd375b76b35dfec6b8acc4b76d075c5181d47156a3"
+        }
+      ]
+    },
+    {
+      "id": "W3",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "周五不回，改周日了",
+        "text": "小军把回家的日子改了：周五不回来，改成周日。\n249元的车票，他已经买好了，不用给他转钱。\n他说到家前会打电话，让妈妈别去车站接。",
+        "origin": "prepared-screenshot",
+        "caseId": "W3",
+        "pictures": []
+      },
+      "url": "/demo/exports/W3-henan.mp4",
+      "bytes": 249941,
+      "sha256": "49f5115178d3e1de67ebdde11fd260fc30f23ed765dade54d5f87759a45ab7a1",
+      "duration": "00:00:11.49",
+      "meanVolumeDb": -21.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/W3-henan-page1.png",
+          "text": "小军把回家的日子改了：周五不回来，改成周日。\n249元的车票，他已经买好了，不用给他转钱。\n他说到家前会打电话，让妈妈别去车站接。",
+          "sha256": "3e47d9f815c369a1729734e0fbbb65c365b9f91eec317eca6108579af35ae049"
+        }
+      ]
+    },
+    {
+      "id": "P1",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "转正了，评论也得分清",
+        "text": "晓晓说，她上班三个月，今儿试用期过了，成正式员工了。\n朋友阿圆在评论里恭喜她，还约她请喝奶茶。晓晓回了一句，说周末约。",
+        "origin": "prepared-screenshot",
+        "caseId": "P1",
+        "pictures": []
+      },
+      "url": "/demo/exports/P1-henan.mp4",
+      "bytes": 251390,
+      "sha256": "8b42264b48588be580a00fb659f6c96aa250cb54f417bd873935571eb59c0889",
+      "duration": "00:00:11.63",
+      "meanVolumeDb": -21.1,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/P1-henan-page1.png",
+          "text": "晓晓说，她上班三个月，今儿试用期过了，成正式员工了。\n朋友阿圆在评论里恭喜她，还约她请喝奶茶。晓晓回了一句，说周末约。",
+          "sha256": "f37ee6f3995baee1c1a0cfe9f77b9385bb0d61f0ac1a4a5b32e43a254eebb2f6"
+        }
+      ]
+    },
+    {
+      "id": "P2",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "孩子拿了PB，是啥奖",
+        "text": "小满在校运会跑800米，比自个儿上回快了12秒。\n“PB”是他自个儿跑得最好的一回，可不是说得了全校第一。\n妈妈在评论里夸他一直坚持训练。",
+        "origin": "prepared-screenshot",
+        "caseId": "P2",
+        "pictures": []
+      },
+      "url": "/demo/exports/P2-henan.mp4",
+      "bytes": 254366,
+      "sha256": "f5f92b2b983882ed84164053ea75652add4e7a2a309e61697a4f4dc06240075b",
+      "duration": "00:00:11.80",
+      "meanVolumeDb": -22.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/P2-henan-page1.png",
+          "text": "小满在校运会跑800米，比自个儿上回快了12秒。\n“PB”是他自个儿跑得最好的一回，可不是说得了全校第一。\n妈妈在评论里夸他一直坚持训练。",
+          "sha256": "71a3b9f0ce52502ada87fdc8b1f5a4b97bec0703dbb49f27d6de59f0e4a3a92f"
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "一盒饺子，孩子想家了",
+        "text": "晓晓收到姥姥寄的饺子，一瞧见，心里就很受触动，一下子特别想家。\n她说“破防了”，这儿是在说心里的情绪被触动了。\n妈妈在评论里提醒她，吃完给姥姥打个电话。",
+        "origin": "prepared-screenshot",
+        "caseId": "P3",
+        "pictures": []
+      },
+      "url": "/demo/exports/P3-henan.mp4",
+      "bytes": 300744,
+      "sha256": "b644ba5f01f5b81199d8b35de813a00ff767a52c35e762bc2b2b2016903c2b08",
+      "duration": "00:00:13.00",
+      "meanVolumeDb": -21.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/P3-henan-page1.png",
+          "text": "晓晓收到姥姥寄的饺子，一瞧见，心里就很受触动，一下子特别想家。\n她说“破防了”，这儿是在说心里的情绪被触动了。\n妈妈在评论里提醒她，吃完给姥姥打个电话。",
+          "sha256": "fa09d4e035c9ba2f4183a688d351ddaa8e6944480b79d72589d45fdf29e592d5"
+        }
+      ]
+    },
+    {
+      "id": "S1",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "取件码，不用到处翻了",
+        "text": "短信上说，尾号2816的包裹到了春风驿站。\n取件码是7-249，保管到9月22日18:00。\n短信上写着，这回取件不收钱，别给不认识的人转账。",
+        "origin": "prepared-screenshot",
+        "caseId": "S1",
+        "pictures": []
+      },
+      "url": "/demo/exports/S1-henan.mp4",
+      "bytes": 278299,
+      "sha256": "24100261b65334ca37dbfc7ff048ba3dab07e30b39efdc1e8d9404952a253f62",
+      "duration": "00:00:13.05",
+      "meanVolumeDb": -22.3,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/S1-henan-page1.png",
+          "text": "短信上说，尾号2816的包裹到了春风驿站。\n取件码是7-249，保管到9月22日18:00。\n短信上写着，这回取件不收钱，别给不认识的人转账。",
+          "sha256": "8b192b69cc563be907a26b192f8357ff6d1e9e20353b36ba58244a35ab2e07f9"
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "活动改日子了，别白跑",
+        "text": "这条通知说，手工活动改到9月24日上午9:30。\n地方在社区服务中心2楼。\n别按原先的9月23日去。通知说活动不收报名费。",
+        "origin": "prepared-screenshot",
+        "caseId": "S2",
+        "pictures": []
+      },
+      "url": "/demo/exports/S2-henan.mp4",
+      "bytes": 252268,
+      "sha256": "2dde8b6d94056d6fe36ad3d5c214f2a863e440720813332bdc610f078d46cfe8",
+      "duration": "00:00:12.04",
+      "meanVolumeDb": -21.7,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/S2-henan-page1.png",
+          "text": "这条通知说，手工活动改到9月24日上午9:30。\n地方在社区服务中心2楼。\n别按原先的9月23日去。通知说活动不收报名费。",
+          "sha256": "15caeefa5efa59e6ca50708988daeb25cefa7e64382e14c1e0ed0aea2d7f0c44"
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "流量提醒，可不是欠费",
+        "text": "短信说，这个月套餐里的上网流量用了8GB，还剩2GB。\n短信明说了，没替您买额外的流量包。\n这条短信没说您欠费，也没让您交钱。",
+        "origin": "prepared-screenshot",
+        "caseId": "S3",
+        "pictures": []
+      },
+      "url": "/demo/exports/S3-henan.mp4",
+      "bytes": 249384,
+      "sha256": "77a853c01e4a1d5b6bf3d9389a763e84e8c78ee7f86c42aa81b6252a2e463ab8",
+      "duration": "00:00:10.96",
+      "meanVolumeDb": -22.6,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/S3-henan-page1.png",
+          "text": "短信说，这个月套餐里的上网流量用了8GB，还剩2GB。\n短信明说了，没替您买额外的流量包。\n这条短信没说您欠费，也没让您交钱。",
+          "sha256": "238184c0d954aa55273a0a3a70ff9f69eeeed024436c279456275edfd8d9413d"
+        }
+      ]
+    },
+    {
+      "id": "C1",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "周日回家，一起吃饺子",
+        "text": "妈，我这周日回家。车票已经买好了，不用给我转钱。您别去车站接我，到家前我给您打电话。晚上咱一起吃饺子。",
+        "origin": "composition",
+        "caseId": null,
+        "pictures": [
+          "/demo-cases/assets/moment-p3-dumplings.png"
+        ]
+      },
+      "url": "/demo/exports/C1-henan.mp4",
+      "bytes": 201515,
+      "sha256": "eaa52257a6f6906a3cc24c4c4595c9d63e131b0a351cea26b25aec73312b6070",
+      "duration": "00:00:09.21",
+      "meanVolumeDb": -21.6,
+      "pictures": [
+        {
+          "url": "/demo-cases/assets/moment-p3-dumplings.png",
+          "sha256": "60526f1737affb9bedc9044730694956024381b633fa184d0d2a64e934f5f1b2"
+        }
+      ],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/C1-henan-page1.png",
+          "text": "妈，我这周日回家。车票已经买好了，不用给我转钱。您别去车站接我，到家前我给您打电话。晚上咱一起吃饺子。",
+          "sha256": "4be92e44916823e7760ad078d0343af5a457bc6ce2044b68bd2cfedbb1ee5471"
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "分享孩子的小进步",
+        "text": "妈，小满今天参加了学校的八百米跑步比赛，比他自己上次快了十二秒。他一直坚持练习，想把这个好消息告诉您。",
+        "origin": "composition",
+        "caseId": null,
+        "pictures": []
+      },
+      "url": "/demo/exports/C2-henan.mp4",
+      "bytes": 177306,
+      "sha256": "e94d863b68ffe89312e0e739a3467b21a341707f470b237a29a4d2581dbd6838",
+      "duration": "00:00:09.57",
+      "meanVolumeDb": -22.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/C2-henan-page1.png",
+          "text": "妈，小满今天参加了学校的八百米跑步比赛，比他自己上次快了十二秒。他一直坚持练习，想把这个好消息告诉您。",
+          "sha256": "ada6e186bc4a81ff336212c690cc09680ca3827540cdbaa4fd063cd7f95620a3"
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "identity": {
+        "version": 1,
+        "language": "henan",
+        "title": "记得按时吃饭",
+        "text": "妈，今天下班有点晚，我已经吃过饭了，您不用等我。您和爸记得按时吃饭，晚上我再给您打电话。",
+        "origin": "composition",
+        "caseId": null,
+        "pictures": []
+      },
+      "url": "/demo/exports/C3-henan.mp4",
+      "bytes": 142217,
+      "sha256": "2cc07697aee681f799b737e70048a24536689ebeef45509d4551d0c031432c2e",
+      "duration": "00:00:07.60",
+      "meanVolumeDb": -21.8,
+      "pictures": [],
+      "frames": [
+        {
+          "dataUrl": "/demo/exports/C3-henan-page1.png",
+          "text": "妈，今天下班有点晚，我已经吃过饭了，您不用等我。您和爸记得按时吃饭，晚上我再给您打电话。",
+          "sha256": "a8c86f8d703b70070b4eced9ca819031e2638841a2d8f44cb9e862558e27f864"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-09-20T04:49:07.727Z"
+}

@@ -1,0 +1,214 @@
+{
+  "id": "self-practice-preview",
+  "language": "henan",
+  "text": "第三步，看看选对没有。这儿能查看选中的原图。选错了可以重新选；确认好，再往下看。",
+  "file": "/tutorial/self-practice-preview-henan.mp3",
+  "sha256": "422919b5c4c6b1bb7d57dac116455b18b84cd75103e8ce690d747762b832cbc0",
+  "duration": 7.22,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.04,
+      "end": 0.2
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 0.96,
+      "end": 1.2
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.2,
+      "end": 1.32
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.4,
+      "end": 1.56
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.56,
+      "end": 1.84
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.84,
+      "end": 2
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.12,
+      "end": 2.2
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.32,
+      "end": 2.6
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.6,
+      "end": 2.68
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.68,
+      "end": 2.87
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 2.87,
+      "end": 3.06
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.06,
+      "end": 3.25
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.25,
+      "end": 3.44
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.44,
+      "end": 3.52
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.52,
+      "end": 3.8
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.08,
+      "end": 4.36
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.36,
+      "end": 4.4
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.4,
+      "end": 4.56
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.56,
+      "end": 4.72
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.72,
+      "end": 4.88
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "start": 5.04,
+      "end": 5.16
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.16,
+      "end": 5.36
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 5.56,
+      "end": 5.76
+    },
+    {
+      "from": 32,
+      "to": 33,
+      "start": 5.76,
+      "end": 5.96
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 5.96,
+      "end": 6.16
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 6.36,
+      "end": 6.44
+    },
+    {
+      "from": 36,
+      "to": 37,
+      "start": 6.44,
+      "end": 6.72
+    },
+    {
+      "from": 37,
+      "to": 38,
+      "start": 6.72,
+      "end": 6.8
+    },
+    {
+      "from": 38,
+      "to": 39,
+      "start": 6.84,
+      "end": 6.92
+    }
+  ]
+}

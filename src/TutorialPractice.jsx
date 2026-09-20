@@ -1,0 +1,26 @@
+import {assetUrl} from './assets.mjs';
+import React,{useMemo} from 'react';
+import {BookOpen,History,Film,Download} from 'lucide-react';
+import Compose from './Compose.jsx';import ExportPanel from './ExportPanel';import DemoCases from './DemoCases';import HelperGuidance from './HelperGuidance';
+import {ContentHeading,GentleVideo} from './Playback';import {SourcePictures} from './ScreenshotPreview';import {CaptureSteps} from './ReadingPreparation';
+import {makeDemoRecords,localResult} from './demo.mjs';import {caseImage} from './demo-assets.mjs';import {createCompositionRecord} from './compose.mjs';import {demoCompositions} from './demo-compositions.mjs';import {preparedVideo} from './demo-videos.mjs';import {exportContent} from './export.mjs';import {t} from './i18n.mjs';
+const idle=()=>{};
+// Reuse the product screens with in-memory examples. The guide owns navigation;
+// practice never calls analysis, writes history, or downloads a file.
+export default function TutorialPractice({scene,mode,language}){
+ const elder=mode==='self',sample=useMemo(()=>makeDemoRecords().find(row=>row.mode===mode&&row.caseId==='W1'),[mode]);
+ const result=localResult(sample,language),composition=useMemo(()=>({...createCompositionRecord({...demoCompositions[0],exportLanguage:language}),id:'tutorial-composition'}),[language]);
+ const compositionResult=localResult(composition,language),video=preparedVideo(composition,exportContent(composition,compositionResult,language),language);
+ const voice=elder?{status:'idle',speak:idle}:null;
+ const exporting=['export-image','export-video','export-ready','screenshot-export'].includes(scene),row=scene==='screenshot-export'?sample:composition;
+ return <div className="tutorial-practice" data-scene={scene}>
+  <p className="tutorial-practice-tag">预览案例 · 跟着学一遍</p>
+  {['compose-blank','compose-filled'].includes(scene)&&<Compose key={scene} language={language} examples={demoCompositions} defaultRecord={scene==='compose-filled'?composition:undefined} onCreate={idle} onCancel={idle}/>}
+  {exporting&&<><ExportPanel key={scene} record={row} result={localResult(row,language)} language={language} initialFormat={['export-video','export-ready'].includes(scene)?'video':'image'} onSave={idle} onWorking={idle} onRate={idle} rate={1} henanReady narrator={null}/>{scene==='export-ready'&&<section className="download-ready tutorial-ready"><strong>示例视频预览</strong>{video?<GentleVideo src={video.url} poster={video.frames?.[0]?.dataUrl} language={language} rate={1} onRate={idle} compact/>:<img src={assetUrl("/demo-cases/assets/moment-p3-dumplings.png")} alt="周日回家吃饺子的示例配图"/>}<button className="primary" onClick={idle}><Download/>保存视频</button><p>保存到手机后，打开微信发给家人。</p></section>}</>}
+  {scene==='upload'&&<><h1 className="page-title">{elder?t('uploadTitle',language):'把发过的消息讲明白'}</h1><CaptureSteps step={0}/><p className="intro">选一张截图，再看看解释。</p><button className="upload-area" onClick={idle}><BookOpen/><strong>{t('chooseAlbum',language)}</strong><span>{t('imageKinds',language)}</span></button></>}
+  {scene==='album'&&<><h1 className="page-title">演示相册</h1><DemoCases mode={mode} language={language} onSelect={idle} importing/></>}
+  {scene==='preview'&&<><h1 className="page-title">{elder?t('uploadTitle',language):'把发过的消息讲明白'}</h1><CaptureSteps step={0}/><SourcePictures images={[{src:caseImage('W1'),alt:'已选择的聊天截图'}]} language={language}/><p className="sample-tag">演示案例 · {result.title}</p><button className="secondary" onClick={idle}>{t('rechoose',language)}</button><label className="field">消息来源<select value="wechat_chat" disabled><option value="wechat_chat">微信聊天</option></select></label><button data-tour="practice-analyze" className="primary" onClick={idle}><BookOpen/>{elder?t('analyze',language):'整理给爸妈看'}</button></>}
+  {scene==='read'&&<><h1 className="page-title">{elder?'看看这段话的意思':'给爸妈看的解释'}</h1><SourcePictures record={sample} language={language}/><article className="reading-card"><p className="eyebrow">这段话的意思</p><ContentHeading title={result.title} text={result.explanation} narrator={voice} language={language} whole/><div className="plain-copy">{result.explanation.split('\n').map((line,i)=><p key={i}>{line}</p>)}</div></article><section className="glossary"><ContentHeading title="不熟悉的词" text={result.glossary.map(x=>x.term+'。'+x.explanation).join('。')} narrator={voice} language={language}/>{result.glossary.map(term=><div key={term.term}><strong>{term.term}</strong><p>{term.explanation}</p></div>)}</section>{!elder&&<HelperGuidance result={result} record={sample}/>}<details className="original"><summary>看看原话</summary>{result.items.map((item,i)=><p key={i}>{item.speaker}：{item.text}</p>)}</details><div className="reading-actions"><button data-tour="practice-save" className="secondary" onClick={idle}><History/>保存解读</button>{!elder&&<button data-tour="practice-export" className="primary" onClick={idle}><Film/>制作长图或视频</button>}</div></>}
+  {scene==='video'&&<><h1 className="page-title">先看一个成片</h1><p className="intro">一盒饺子，一份想念。</p><GentleVideo src={`/demo/P3-${language}.mp4`} poster="/demo/P3-poster.png" language={language} rate={1} onRate={idle} compact/><button className="secondary" onClick={idle}><Download/>保存示例视频</button></>}
+ </div>;
+}

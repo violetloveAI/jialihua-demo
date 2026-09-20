@@ -1,0 +1,11 @@
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import App from './App';
+import DeviceFrame from './DeviceFrame';
+import './styles.css';
+import './compose.css';
+import './mobile.css';
+import './device.css';
+import './reading-flow.css';
+import './onboarding.css';
+createRoot(document.getElementById('root')).render(<DeviceFrame><App/></DeviceFrame>);

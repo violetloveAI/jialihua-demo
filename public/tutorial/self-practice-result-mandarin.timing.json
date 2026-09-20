@@ -1,0 +1,118 @@
+{
+  "id": "self-practice-result",
+  "language": "mandarin",
+  "text": "解释就在这里。这张图说的是：孩子答辩通过了，周六想回家吃饺子。",
+  "file": "/tutorial/self-practice-result-mandarin.mp3",
+  "sha256": "a310b10e2b141207340624d40bdf19b7e0535f25ec04fa1c34e350c208dcc010",
+  "duration": 7.27,
+  "cues": [
+    {
+      "from": 0,
+      "to": 2,
+      "start": 0.1,
+      "end": 0.425
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.4375,
+      "end": 0.5875
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.5875,
+      "end": 0.7125
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "start": 0.725,
+      "end": 1.1
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.6625,
+      "end": 1.85
+    },
+    {
+      "from": 8,
+      "to": 10,
+      "start": 1.85,
+      "end": 2.25
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2.2625,
+      "end": 2.4375
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.4375,
+      "end": 2.55
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.55,
+      "end": 2.9375
+    },
+    {
+      "from": 14,
+      "to": 16,
+      "start": 3.225,
+      "end": 3.5875
+    },
+    {
+      "from": 16,
+      "to": 18,
+      "start": 3.6,
+      "end": 3.9125
+    },
+    {
+      "from": 18,
+      "to": 20,
+      "start": 3.925,
+      "end": 4.325
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 4.325,
+      "end": 4.4875
+    },
+    {
+      "from": 22,
+      "to": 24,
+      "start": 4.7375,
+      "end": 5.1625
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 5.175,
+      "end": 5.375
+    },
+    {
+      "from": 25,
+      "to": 27,
+      "start": 5.375,
+      "end": 5.6875
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.7,
+      "end": 5.875
+    },
+    {
+      "from": 28,
+      "to": 30,
+      "start": 5.875,
+      "end": 6.4
+    }
+  ]
+}

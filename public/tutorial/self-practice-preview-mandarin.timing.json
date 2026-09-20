@@ -1,0 +1,136 @@
+{
+  "id": "self-practice-preview",
+  "language": "mandarin",
+  "text": "第三步，看看选对没有。这里能查看选中的原图。选错了可以重新选；确认好，再往下看。",
+  "file": "/tutorial/self-practice-preview-mandarin.mp3",
+  "sha256": "b45ccf81ee3b24ac48fdae39a85f0d741069bb7f7b37eeb47cdec3d20b5710cc",
+  "duration": 9.53,
+  "cues": [
+    {
+      "from": 0,
+      "to": 2,
+      "start": 0.1,
+      "end": 0.4875
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.4875,
+      "end": 0.6875
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "start": 0.9,
+      "end": 1.2125
+    },
+    {
+      "from": 6,
+      "to": 8,
+      "start": 1.225,
+      "end": 1.5625
+    },
+    {
+      "from": 8,
+      "to": 10,
+      "start": 1.575,
+      "end": 1.9625
+    },
+    {
+      "from": 11,
+      "to": 13,
+      "start": 2.525,
+      "end": 3.0375
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 3.15,
+      "end": 3.275
+    },
+    {
+      "from": 14,
+      "to": 16,
+      "start": 3.2875,
+      "end": 3.675
+    },
+    {
+      "from": 16,
+      "to": 18,
+      "start": 3.6875,
+      "end": 4.075
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 4.075,
+      "end": 4.15
+    },
+    {
+      "from": 19,
+      "to": 21,
+      "start": 4.1625,
+      "end": 4.6375
+    },
+    {
+      "from": 22,
+      "to": 24,
+      "start": 5.2,
+      "end": 5.6875
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 5.6875,
+      "end": 5.825
+    },
+    {
+      "from": 25,
+      "to": 27,
+      "start": 5.8375,
+      "end": 6.1125
+    },
+    {
+      "from": 27,
+      "to": 29,
+      "start": 6.125,
+      "end": 6.525
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 6.5375,
+      "end": 6.775
+    },
+    {
+      "from": 31,
+      "to": 33,
+      "start": 7.0625,
+      "end": 7.425
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 7.425,
+      "end": 7.7
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 7.9,
+      "end": 8.05
+    },
+    {
+      "from": 36,
+      "to": 38,
+      "start": 8.0625,
+      "end": 8.375
+    },
+    {
+      "from": 38,
+      "to": 39,
+      "start": 8.375,
+      "end": 8.65
+    }
+  ]
+}

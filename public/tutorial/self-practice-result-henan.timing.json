@@ -1,0 +1,172 @@
+{
+  "id": "self-practice-result",
+  "language": "henan",
+  "text": "解释就在这里。这张图说的是：孩子答辩通过了，周六想回家吃饺子。",
+  "file": "/tutorial/self-practice-result-henan.mp3",
+  "sha256": "5b8351f96f96a0b3a1681157b222e44fdd7d1f722e9eda879ad0aa9df4a1335d",
+  "duration": 5.98,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.08,
+      "end": 0.24
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.24,
+      "end": 0.4
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.44,
+      "end": 0.52
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "start": 0.6,
+      "end": 0.68
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.68,
+      "end": 0.88
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.52,
+      "end": 1.76
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "start": 1.76,
+      "end": 2
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 2,
+      "end": 2.16
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 2.16,
+      "end": 2.32
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.64,
+      "end": 2.84
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.84,
+      "end": 3.04
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 3.04,
+      "end": 3.16
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.24,
+      "end": 3.36
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.44,
+      "end": 3.56
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.68,
+      "end": 3.8
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.8,
+      "end": 3.98
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4.16,
+      "end": 4.32
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.32,
+      "end": 4.54
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "start": 4.54,
+      "end": 4.76
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.76,
+      "end": 4.88
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.88,
+      "end": 5.2
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 5.2,
+      "end": 5.32
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "start": 5.32,
+      "end": 5.68
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.68,
+      "end": 5.76
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "self-practice-choose",
+  "language": "henan",
+  "text": "第二步，选这张截图。这是孩子说答辩通过的聊天截图。点亮着的这张图，把它选进来。",
+  "file": "/tutorial/self-practice-choose-henan.mp3",
+  "sha256": "b328403d3a41792af088b6e2f29e3272d91f52979cfbd0bf6aaa632576229fc7",
+  "duration": 6.89,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.04,
+      "end": 0.2
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "start": 0.2,
+      "end": 0.36
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "start": 0.4,
+      "end": 0.56
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "start": 0.72,
+      "end": 0.92
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "start": 0.92,
+      "end": 1.12
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.12,
+      "end": 1.24
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "start": 1.28,
+      "end": 1.4
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "start": 1.48,
+      "end": 1.68
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "start": 1.826,
+      "end": 1.973
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "start": 1.973,
+      "end": 2.12
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "start": 2.12,
+      "end": 2.32
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "start": 2.32,
+      "end": 2.4
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "start": 2.56,
+      "end": 2.64
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "start": 2.72,
+      "end": 2.8
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "start": 2.88,
+      "end": 3
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3,
+      "end": 3.28
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "start": 3.28,
+      "end": 3.4
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "start": 3.4,
+      "end": 3.6
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 3.6,
+      "end": 3.8
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 3.8,
+      "end": 4
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "start": 4,
+      "end": 4.12
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "start": 4.2,
+      "end": 4.32
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "start": 4.56,
+      "end": 4.64
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "start": 4.64,
+      "end": 4.817
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 4.817,
+      "end": 4.994
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "start": 4.994,
+      "end": 5.171
+    },
+    {
+      "from": 29,
+      "to": 30,
+      "start": 5.171,
+      "end": 5.348
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 5.348,
+      "end": 5.525
+    },
+    {
+      "from": 31,
+      "to": 32,
+      "start": 5.525,
+      "end": 5.702
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 5.88,
+      "end": 6
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "start": 6,
+      "end": 6.2
+    },
+    {
+      "from": 35,
+      "to": 36,
+      "start": 6.2,
+      "end": 6.32
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "self-practice-listen",
+  "language": "mandarin",
+  "text": "点这个标题，听完整解释。不想看字，就点亮着的标题。现在也可以先听听这段案例讲解。",
+  "file": "/tutorial/self-practice-listen-mandarin.mp3",
+  "sha256": "dbd51215cdd03282830490e9dad5daad3678778c8e812fa1fb1ca6ad973db3d7",
+  "duration": 9.5,
+  "cues": [
+    {
+      "from": 0,
+      "to": 1,
+      "start": 0.1,
+      "end": 0.3125
+    },
+    {
+      "from": 1,
+      "to": 3,
+      "start": 0.325,
+      "end": 0.5375
+    },
+    {
+      "from": 3,
+      "to": 5,
+      "start": 0.55,
+      "end": 1.0875
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "start": 1.325,
+      "end": 1.4875
+    },
+    {
+      "from": 7,
+      "to": 9,
+      "start": 1.5,
+      "end": 1.8375
+    },
+    {
+      "from": 9,
+      "to": 11,
+      "start": 1.85,
+      "end": 2.325
+    },
+    {
+      "from": 12,
+      "to": 14,
+      "start": 2.8875,
+      "end": 3.225
+    },
+    {
+      "from": 14,
+      "to": 16,
+      "start": 3.2375,
+      "end": 3.7375
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "start": 3.975,
+      "end": 4.15
+    },
+    {
+      "from": 18,
+      "to": 20,
+      "start": 4.15,
+      "end": 4.525
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "start": 4.525,
+      "end": 4.625
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "start": 4.625,
+      "end": 4.7125
+    },
+    {
+      "from": 22,
+      "to": 24,
+      "start": 4.725,
+      "end": 5.1875
+    },
+    {
+      "from": 25,
+      "to": 27,
+      "start": 5.75,
+      "end": 6.3625
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "start": 6.4625,
+      "end": 6.6
+    },
+    {
+      "from": 28,
+      "to": 30,
+      "start": 6.6,
+      "end": 6.875
+    },
+    {
+      "from": 30,
+      "to": 31,
+      "start": 6.8875,
+      "end": 7.0875
+    },
+    {
+      "from": 31,
+      "to": 33,
+      "start": 7.1,
+      "end": 7.5125
+    },
+    {
+      "from": 33,
+      "to": 34,
+      "start": 7.525,
+      "end": 7.6625
+    },
+    {
+      "from": 34,
+      "to": 35,
+      "start": 7.6625,
+      "end": 7.8125
+    },
+    {
+      "from": 35,
+      "to": 37,
+      "start": 7.825,
+      "end": 8.1
+    },
+    {
+      "from": 37,
+      "to": 39,
+      "start": 8.1125,
+      "end": 8.6375
+    }
+  ]
+}
