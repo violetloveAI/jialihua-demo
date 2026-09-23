@@ -8,4 +8,5 @@ import './mobile.css';
 import './device.css';
 import './reading-flow.css';
 import './onboarding.css';
+import './entry-mobile.css';
 createRoot(document.getElementById('root')).render(<DeviceFrame><App/></DeviceFrame>);

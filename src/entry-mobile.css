@@ -1,0 +1,118 @@
+/* Phone entry screens use the available viewport, including in-app browsers. */
+@media (max-width:599px) {
+  .device-stage { height:100vh; height:100dvh; }
+  .device-viewport .entry-login,
+  .device-viewport .entry-role {
+    padding:20px 18px max(18px,env(safe-area-inset-bottom));
+    scroll-padding-block:20px;
+  }
+  .device-viewport .entry-login .entry-brand,
+  .device-viewport .entry-role .entry-brand { font-size:25px; }
+  .device-viewport .entry-login {
+    display:flex;
+    flex-direction:column;
+  }
+  .device-viewport .entry-login .entry-brand {
+    width:100%;
+    flex:none;
+    margin:0 0 20px;
+  }
+  .device-viewport .entry-login .welcome-card {
+    display:flex;
+    flex-direction:column;
+    flex:1 0 auto;
+    width:100%;
+    max-width:none;
+    margin:0;
+    padding:24px 20px 20px;
+  }
+  .entry-login .welcome-card > :not(.welcome-picture) { flex-shrink:0; }
+  .device-viewport .entry-login .welcome-card h1 {
+    font-size:clamp(32px,8.5vw,38px);
+    line-height:1.45;
+  }
+  .device-viewport .entry-login .welcome-stamp { font-size:14px; margin-bottom:15px; }
+  .device-viewport .entry-login .welcome-copy {
+    font-size:18px;
+    line-height:1.75;
+    margin-top:14px;
+  }
+  .device-viewport .entry-login .welcome-picture {
+    flex:1 0 190px;
+    min-height:190px;
+    height:auto;
+    margin:18px -8px 20px;
+  }
+  .entry-login .welcome-picture > .illustration {
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    padding:0;
+    object-fit:contain;
+  }
+  .entry-login .welcome-picture:before {
+    height:140px;
+    top:50%;
+    bottom:auto;
+    transform:translateY(-43%);
+  }
+  .device-viewport .entry-login .demo-login { padding:15px; }
+  .device-viewport .entry-login .demo-login strong { font-size:16px; line-height:1.6; }
+  .device-viewport .entry-login .demo-login p { font-size:13px; }
+  .device-viewport .entry-login .entry-start {
+    padding:17px 24px;
+    min-height:62px;
+    margin-top:20px;
+    font-size:25px;
+  }
+  .device-viewport .entry-login .entry-footnote { margin-top:17px; font-size:13px; }
+
+  /* Only the backing panel is short; the full portrait rises above it. */
+  .device-viewport .entry-role .entry-brand { margin-bottom:18px; }
+  .device-viewport .entry-role .entry-progress { margin-bottom:14px; }
+  .device-viewport .entry-role .entry-question { font-size:29px; margin-bottom:20px; }
+  .device-viewport .entry-role .entry-choices { gap:20px; }
+  .device-viewport .entry-role .entry-choice {
+    position:relative;
+    overflow:visible;
+    padding:18px 18px 16px;
+  }
+  .device-viewport .entry-role .choice-heading { position:relative; z-index:2; font-size:30px; }
+  .device-viewport .entry-role .choice-picture {
+    height:120px;
+    margin:52px 0 14px;
+    overflow:visible;
+    isolation:isolate;
+  }
+  .entry-role .choice-picture > .illustration {
+    inset:auto 0 0;
+    height:180px;
+    width:100%;
+    max-width:none;
+    padding:0;
+    object-fit:contain;
+    object-position:center bottom;
+  }
+  .device-viewport .entry-role .choice-description {
+    position:relative;
+    font-size:17px;
+    line-height:1.65;
+  }
+  .device-viewport .entry-role .entry-footnote { margin-top:22px; font-size:13px; }
+}
+
+/* Browser bars leave less room on short phones; keep the image wide and the CTA visible. */
+@media (max-width:599px) and (max-height:740px) {
+  .device-viewport .entry-login { padding-block:14px max(14px,env(safe-area-inset-bottom)); }
+  .device-viewport .entry-login .entry-brand { margin-bottom:14px; }
+  .device-viewport .entry-login .welcome-card { padding-block:20px 16px; }
+  .device-viewport .entry-login .welcome-copy { font-size:17px; line-height:1.6; }
+  .device-viewport .entry-login .welcome-picture {
+    flex-basis:166px;
+    min-height:166px;
+    margin-block:14px 16px;
+  }
+  .device-viewport .entry-login .entry-start { padding-block:12px; margin-top:16px; }
+  .device-viewport .entry-login .entry-footnote { margin-top:13px; font-size:12px; }
+}
